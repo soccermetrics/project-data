@@ -6,11 +6,14 @@ It is our hope that these data and tools will be used by others in the soccer an
 
 ## Other Sport Data Repositories
 
-Links will be added here.  
+Links will be added here.
 
 ## Contents
 
-At the moment, this repository is empty, but it will be filled with data shortly.
+Publication Date | Articles | Folder
+-----------------|----------|---------
+November 11, 2015 | [MLS Front-Office Efficiency: 2015 edition](http://www.soccermetrics.net/football-business-analytics/front-office-efficiency-football-business-analytics/mls-front-office-efficiency-2015-edition) | `mls-front-office-efficiency`
+March 31, 2011 | [A proposal for allocation of at-large slots to the NCAA basketball tournament](http://www.soccermetrics.net/clubleague-coefficients/allocation-proposal-at-large-slots-to-ncaa-basketball-tournament) | `ncaa-tournament-allocation`
 
 ## License
 
