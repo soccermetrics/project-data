@@ -1,0 +1,463 @@
+home_team,away_team,apt
+V-Varen Nagasaki,Fagiano Okayama,2442
+Consadole Sapporo,Roasso Kumamoto,2486
+V-Varen Nagasaki,Kyoto Sanga FC,2499
+Ehime FC,Roasso Kumamoto,2504
+Mito Hollyhock,Gainare Tottori,2512
+FC Gifu,Gainare Tottori,2551
+Montedio Yamagata,Mito Hollyhock,2554
+Montedio Yamagata,Avispa Fukuoka,2554
+Mito Hollyhock,Giravanz Kitakyushu,2581
+Giravanz Kitakyushu,V-Varen Nagasaki,2582
+V-Varen Nagasaki,Matsumoto Yamaga FC,2584
+Gainare Tottori,Ehime FC,2585
+Gainare Tottori,FC Gifu,2593
+V-Varen Nagasaki,Tokushima Vortis,2599
+Thespa Kusatsu Gunma,Gainare Tottori,2634
+FC Gifu,Mito Hollyhock,2640
+Ehime FC,Kataller Toyama,2646
+Tochigi SC,Consadole Sapporo,2652
+Montedio Yamagata,Giravanz Kitakyushu,2662
+Roasso Kumamoto,V-Varen Nagasaki,2667
+Roasso Kumamoto,Thespa Kusatsu Gunma,2679
+Avispa Fukuoka,V-Varen Nagasaki,2690
+Avispa Fukuoka,Tochigi SC,2691
+Yokohama FC,Matsumoto Yamaga FC,2693
+Montedio Yamagata,Tokushima Vortis,2695
+Tochigi SC,Ehime FC,2699
+Matsumoto Yamaga FC,Thespa Kusatsu Gunma,2706
+V-Varen Nagasaki,Montedio Yamagata,2710
+Kyoto Sanga FC,Ehime FC,2712
+V-Varen Nagasaki,Avispa Fukuoka,2721
+Matsumoto Yamaga FC,Gainare Tottori,2723
+Tokushima Vortis,Montedio Yamagata,2726
+Thespa Kusatsu Gunma,Matsumoto Yamaga FC,2730
+FC Gifu,Ehime FC,2741
+Avispa Fukuoka,Roasso Kumamoto,2745
+Thespa Kusatsu Gunma,Roasso Kumamoto,2749
+Mito Hollyhock,Tochigi SC,2758
+Kyoto Sanga FC,Montedio Yamagata,2759
+Matsumoto Yamaga FC,Montedio Yamagata,2779
+Kataller Toyama,Gainare Tottori,2781
+Kyoto Sanga FC,Thespa Kusatsu Gunma,2787
+Montedio Yamagata,FC Gifu,2788
+Matsumoto Yamaga FC,V-Varen Nagasaki,2789
+Kataller Toyama,Avispa Fukuoka,2794
+Kyoto Sanga FC,Kataller Toyama,2794
+Roasso Kumamoto,Avispa Fukuoka,2812
+Thespa Kusatsu Gunma,Tochigi SC,2813
+FC Gifu,Matsumoto Yamaga FC,2813
+Roasso Kumamoto,Giravanz Kitakyushu,2817
+Tochigi SC,Montedio Yamagata,2818
+Gainare Tottori,JEF United Chiba,2818
+Gainare Tottori,Thespa Kusatsu Gunma,2822
+Matsumoto Yamaga FC,Tochigi SC,2823
+V-Varen Nagasaki,FC Gifu,2824
+Thespa Kusatsu Gunma,Montedio Yamagata,2825
+Thespa Kusatsu Gunma,V-Varen Nagasaki,2831
+Matsumoto Yamaga FC,Kataller Toyama,2837
+Mito Hollyhock,Roasso Kumamoto,2837
+V-Varen Nagasaki,Ehime FC,2840
+Roasso Kumamoto,Tochigi SC,2843
+Montedio Yamagata,V-Varen Nagasaki,2852
+Consadole Sapporo,Montedio Yamagata,2855
+Roasso Kumamoto,Ehime FC,2863
+Montedio Yamagata,Gainare Tottori,2869
+Tochigi SC,Thespa Kusatsu Gunma,2872
+Kyoto Sanga FC,Tokyo Verdy,2874
+Tochigi SC,Roasso Kumamoto,2875
+Consadole Sapporo,Thespa Kusatsu Gunma,2875
+Gainare Tottori,Montedio Yamagata,2876
+Matsumoto Yamaga FC,Avispa Fukuoka,2877
+Mito Hollyhock,Consadole Sapporo,2879
+Montedio Yamagata,Tochigi SC,2885
+Avispa Fukuoka,Thespa Kusatsu Gunma,2888
+Kataller Toyama,Matsumoto Yamaga FC,2888
+V-Varen Nagasaki,Mito Hollyhock,2892
+Tochigi SC,Gainare Tottori,2896
+Avispa Fukuoka,Giravanz Kitakyushu,2900
+Gamba Osaka,Vissel Kobe,2907
+Gainare Tottori,Yokohama FC,2909
+Yokohama FC,Montedio Yamagata,2910
+Yokohama FC,Roasso Kumamoto,2912
+Gainare Tottori,Matsumoto Yamaga FC,2913
+Matsumoto Yamaga FC,Yokohama FC,2913
+Giravanz Kitakyushu,Gainare Tottori,2917
+V-Varen Nagasaki,Tochigi SC,2918
+Ehime FC,Mito Hollyhock,2923
+Thespa Kusatsu Gunma,Tokyo Verdy,2925
+Avispa Fukuoka,Kyoto Sanga FC,2926
+Fagiano Okayama,Montedio Yamagata,2927
+Fagiano Okayama,Mito Hollyhock,2932
+Roasso Kumamoto,FC Gifu,2932
+Kyoto Sanga FC,V-Varen Nagasaki,2932
+Thespa Kusatsu Gunma,Consadole Sapporo,2933
+Gainare Tottori,Kataller Toyama,2935
+Yokohama FC,Avispa Fukuoka,2939
+Fagiano Okayama,Matsumoto Yamaga FC,2940
+Kataller Toyama,Tochigi SC,2942
+Montedio Yamagata,Thespa Kusatsu Gunma,2945
+Consadole Sapporo,Ehime FC,2953
+Gainare Tottori,Fagiano Okayama,2954
+Tokyo Verdy,Roasso Kumamoto,2955
+Consadole Sapporo,FC Gifu,2957
+V-Varen Nagasaki,Vissel Kobe,2964
+Mito Hollyhock,Avispa Fukuoka,2973
+Mito Hollyhock,Matsumoto Yamaga FC,2974
+Avispa Fukuoka,Montedio Yamagata,2978
+Fagiano Okayama,Tokyo Verdy,2979
+Giravanz Kitakyushu,Fagiano Okayama,2982
+Consadole Sapporo,Mito Hollyhock,2985
+FC Gifu,V-Varen Nagasaki,2986
+Kataller Toyama,V-Varen Nagasaki,2986
+FC Gifu,Kataller Toyama,2991
+Gainare Tottori,Tokushima Vortis,2993
+Tochigi SC,Yokohama FC,2994
+Montedio Yamagata,Tokyo Verdy,2994
+V-Varen Nagasaki,Roasso Kumamoto,2995
+Gainare Tottori,V-Varen Nagasaki,2995
+Yokohama FC,FC Gifu,2998
+Matsumoto Yamaga FC,Roasso Kumamoto,2999
+Mito Hollyhock,Kataller Toyama,3003
+Yokohama FC,JEF United Chiba,3005
+Matsumoto Yamaga FC,Consadole Sapporo,3007
+Tochigi SC,JEF United Chiba,3009
+Avispa Fukuoka,JEF United Chiba,3009
+Roasso Kumamoto,Montedio Yamagata,3011
+Kyoto Sanga FC,Mito Hollyhock,3012
+Kataller Toyama,Consadole Sapporo,3013
+Yokohama FC,Kyoto Sanga FC,3013
+Kyoto Sanga FC,Roasso Kumamoto,3015
+Roasso Kumamoto,Yokohama FC,3015
+Fagiano Okayama,Consadole Sapporo,3016
+Kyoto Sanga FC,JEF United Chiba,3018
+Fagiano Okayama,Gainare Tottori,3025
+V-Varen Nagasaki,Kataller Toyama,3029
+Avispa Fukuoka,FC Gifu,3036
+Kataller Toyama,Yokohama FC,3036
+Gainare Tottori,Avispa Fukuoka,3037
+FC Gifu,Giravanz Kitakyushu,3040
+Matsumoto Yamaga FC,Ehime FC,3043
+Kataller Toyama,Kyoto Sanga FC,3046
+Thespa Kusatsu Gunma,Avispa Fukuoka,3047
+Kyoto Sanga FC,Tochigi SC,3047
+FC Gifu,Kyoto Sanga FC,3049
+Ehime FC,Vissel Kobe,3049
+Kataller Toyama,Thespa Kusatsu Gunma,3056
+Gainare Tottori,Tokyo Verdy,3056
+Montedio Yamagata,Vissel Kobe,3056
+Roasso Kumamoto,Kyoto Sanga FC,3058
+Montedio Yamagata,Ehime FC,3059
+V-Varen Nagasaki,Yokohama FC,3060
+Fagiano Okayama,Giravanz Kitakyushu,3062
+Matsumoto Yamaga FC,Mito Hollyhock,3063
+Ehime FC,Tokyo Verdy,3063
+JEF United Chiba,Montedio Yamagata,3064
+Thespa Kusatsu Gunma,Tokushima Vortis,3068
+Roasso Kumamoto,Vissel Kobe,3071
+Kyoto Sanga FC,Avispa Fukuoka,3075
+JEF United Chiba,V-Varen Nagasaki,3080
+FC Gifu,JEF United Chiba,3081
+Tochigi SC,Fagiano Okayama,3084
+Fagiano Okayama,FC Gifu,3084
+Tokushima Vortis,Consadole Sapporo,3086
+Matsumoto Yamaga FC,Fagiano Okayama,3089
+Giravanz Kitakyushu,Tochigi SC,3091
+Montedio Yamagata,Kataller Toyama,3093
+Thespa Kusatsu Gunma,Fagiano Okayama,3096
+Tokushima Vortis,Thespa Kusatsu Gunma,3097
+Consadole Sapporo,V-Varen Nagasaki,3097
+Roasso Kumamoto,Tokushima Vortis,3100
+Mito Hollyhock,FC Gifu,3112
+Tochigi SC,Giravanz Kitakyushu,3115
+Tochigi SC,Matsumoto Yamaga FC,3116
+Roasso Kumamoto,Tokyo Verdy,3118
+Avispa Fukuoka,Vissel Kobe,3119
+Vissel Kobe,Gainare Tottori,3119
+Kataller Toyama,Mito Hollyhock,3122
+Kataller Toyama,FC Gifu,3122
+FC Gifu,Tochigi SC,3124
+Giravanz Kitakyushu,Matsumoto Yamaga FC,3125
+Tokyo Verdy,V-Varen Nagasaki,3127
+Tokyo Verdy,FC Gifu,3128
+V-Varen Nagasaki,Thespa Kusatsu Gunma,3128
+Giravanz Kitakyushu,Ehime FC,3129
+Kataller Toyama,Ehime FC,3130
+Montedio Yamagata,Matsumoto Yamaga FC,3131
+Montedio Yamagata,Yokohama FC,3133
+Tokushima Vortis,Avispa Fukuoka,3134
+Mito Hollyhock,V-Varen Nagasaki,3137
+Yokohama FC,V-Varen Nagasaki,3147
+Matsumoto Yamaga FC,Giravanz Kitakyushu,3147
+Mito Hollyhock,Tokushima Vortis,3150
+Consadole Sapporo,Fagiano Okayama,3151
+Consadole Sapporo,Kataller Toyama,3152
+Fagiano Okayama,Yokohama FC,3152
+Kataller Toyama,Roasso Kumamoto,3153
+Matsumoto Yamaga FC,FC Gifu,3154
+Avispa Fukuoka,Matsumoto Yamaga FC,3160
+Consadole Sapporo,Tokushima Vortis,3161
+Roasso Kumamoto,Gainare Tottori,3162
+Montedio Yamagata,Roasso Kumamoto,3162
+Yokohama FC,Fagiano Okayama,3164
+Tochigi SC,Tokyo Verdy,3164
+Tochigi SC,Mito Hollyhock,3166
+Mito Hollyhock,Kyoto Sanga FC,3171
+Consadole Sapporo,Tochigi SC,3172
+Consadole Sapporo,Tokyo Verdy,3173
+Mito Hollyhock,Thespa Kusatsu Gunma,3175
+Tokushima Vortis,Roasso Kumamoto,3175
+Giravanz Kitakyushu,Avispa Fukuoka,3175
+FC Gifu,Yokohama FC,3176
+Tokyo Verdy,Matsumoto Yamaga FC,3176
+Mito Hollyhock,Tokyo Verdy,3177
+Roasso Kumamoto,Fagiano Okayama,3180
+Thespa Kusatsu Gunma,FC Gifu,3180
+Thespa Kusatsu Gunma,Ehime FC,3182
+Ehime FC,FC Gifu,3184
+Fagiano Okayama,Ehime FC,3184
+Tokushima Vortis,Fagiano Okayama,3184
+Kataller Toyama,Montedio Yamagata,3185
+Tochigi SC,Tokushima Vortis,3185
+Giravanz Kitakyushu,Consadole Sapporo,3188
+JEF United Chiba,Mito Hollyhock,3188
+Consadole Sapporo,JEF United Chiba,3188
+Tochigi SC,Kyoto Sanga FC,3189
+Ehime FC,Kyoto Sanga FC,3195
+Fagiano Okayama,Tochigi SC,3196
+Tokyo Verdy,Montedio Yamagata,3199
+Consadole Sapporo,Avispa Fukuoka,3201
+Montedio Yamagata,Kyoto Sanga FC,3203
+Gainare Tottori,Roasso Kumamoto,3203
+Tokushima Vortis,V-Varen Nagasaki,3204
+Avispa Fukuoka,Tokyo Verdy,3207
+Kataller Toyama,Giravanz Kitakyushu,3207
+Tokyo Verdy,Kataller Toyama,3207
+Vissel Kobe,Tokyo Verdy,3208
+Consadole Sapporo,Vissel Kobe,3210
+Gainare Tottori,Mito Hollyhock,3211
+Kyoto Sanga FC,Matsumoto Yamaga FC,3213
+Avispa Fukuoka,Consadole Sapporo,3216
+Avispa Fukuoka,Yokohama FC,3216
+Ehime FC,Tokushima Vortis,3217
+JEF United Chiba,Vissel Kobe,3217
+Giravanz Kitakyushu,Tokyo Verdy,3218
+Yokohama FC,Gainare Tottori,3221
+Matsumoto Yamaga FC,JEF United Chiba,3221
+JEF United Chiba,Kyoto Sanga FC,3221
+Gainare Tottori,Vissel Kobe,3226
+JEF United Chiba,Kataller Toyama,3227
+FC Gifu,Consadole Sapporo,3227
+Yokohama FC,Tokushima Vortis,3228
+Tokushima Vortis,Tochigi SC,3229
+Montedio Yamagata,Gamba Osaka,3231
+Gamba Osaka,Montedio Yamagata,3235
+Kyoto Sanga FC,Fagiano Okayama,3236
+Matsumoto Yamaga FC,Gamba Osaka,3236
+Avispa Fukuoka,Tokushima Vortis,3240
+Kyoto Sanga FC,Vissel Kobe,3242
+Vissel Kobe,Tokushima Vortis,3243
+Vissel Kobe,Matsumoto Yamaga FC,3244
+Matsumoto Yamaga FC,Tokyo Verdy,3248
+Thespa Kusatsu Gunma,Mito Hollyhock,3250
+Gamba Osaka,Kyoto Sanga FC,3251
+Thespa Kusatsu Gunma,JEF United Chiba,3251
+FC Gifu,Tokyo Verdy,3254
+Gamba Osaka,Tokyo Verdy,3255
+Mito Hollyhock,Gamba Osaka,3256
+Yokohama FC,Kataller Toyama,3257
+Yokohama FC,Tochigi SC,3257
+Vissel Kobe,Montedio Yamagata,3258
+Vissel Kobe,Roasso Kumamoto,3258
+Giravanz Kitakyushu,Yokohama FC,3259
+Mito Hollyhock,Montedio Yamagata,3259
+Yokohama FC,Consadole Sapporo,3260
+Montedio Yamagata,Consadole Sapporo,3263
+Mito Hollyhock,Ehime FC,3264
+Fagiano Okayama,V-Varen Nagasaki,3267
+Ehime FC,Gainare Tottori,3268
+Matsumoto Yamaga FC,Tokushima Vortis,3268
+Ehime FC,JEF United Chiba,3271
+Kyoto Sanga FC,Consadole Sapporo,3271
+FC Gifu,Fagiano Okayama,3281
+Tokushima Vortis,Kataller Toyama,3282
+Thespa Kusatsu Gunma,Vissel Kobe,3283
+FC Gifu,Vissel Kobe,3286
+Yokohama FC,Thespa Kusatsu Gunma,3288
+Mito Hollyhock,Yokohama FC,3290
+Tokyo Verdy,Consadole Sapporo,3294
+Vissel Kobe,Kataller Toyama,3296
+Kyoto Sanga FC,FC Gifu,3298
+JEF United Chiba,Tochigi SC,3298
+Ehime FC,Consadole Sapporo,3299
+Roasso Kumamoto,Matsumoto Yamaga FC,3299
+JEF United Chiba,Tokyo Verdy,3302
+Fagiano Okayama,Thespa Kusatsu Gunma,3303
+Kataller Toyama,Vissel Kobe,3304
+Montedio Yamagata,Fagiano Okayama,3304
+Thespa Kusatsu Gunma,Giravanz Kitakyushu,3306
+Vissel Kobe,Thespa Kusatsu Gunma,3308
+Tochigi SC,FC Gifu,3309
+Gainare Tottori,Tochigi SC,3315
+Montedio Yamagata,JEF United Chiba,3316
+JEF United Chiba,Matsumoto Yamaga FC,3318
+Kyoto Sanga FC,Yokohama FC,3320
+Vissel Kobe,Giravanz Kitakyushu,3321
+Fagiano Okayama,Avispa Fukuoka,3321
+Roasso Kumamoto,Mito Hollyhock,3322
+V-Varen Nagasaki,Gainare Tottori,3324
+Tokushima Vortis,Ehime FC,3327
+Thespa Kusatsu Gunma,Kataller Toyama,3327
+Vissel Kobe,Tochigi SC,3327
+Fagiano Okayama,Kyoto Sanga FC,3328
+JEF United Chiba,Avispa Fukuoka,3328
+Giravanz Kitakyushu,Roasso Kumamoto,3330
+Mito Hollyhock,Vissel Kobe,3331
+Vissel Kobe,Kyoto Sanga FC,3334
+Mito Hollyhock,Fagiano Okayama,3336
+Fagiano Okayama,Kataller Toyama,3336
+Tokyo Verdy,Tochigi SC,3337
+Gamba Osaka,Giravanz Kitakyushu,3337
+Kyoto Sanga FC,Giravanz Kitakyushu,3340
+V-Varen Nagasaki,Consadole Sapporo,3344
+Tokyo Verdy,JEF United Chiba,3348
+Tokyo Verdy,Gainare Tottori,3349
+Kataller Toyama,Fagiano Okayama,3353
+Thespa Kusatsu Gunma,Kyoto Sanga FC,3354
+Fagiano Okayama,Roasso Kumamoto,3358
+Tokyo Verdy,Fagiano Okayama,3365
+JEF United Chiba,Ehime FC,3368
+Consadole Sapporo,Giravanz Kitakyushu,3368
+Giravanz Kitakyushu,Thespa Kusatsu Gunma,3369
+FC Gifu,Thespa Kusatsu Gunma,3370
+Matsumoto Yamaga FC,Vissel Kobe,3371
+Tokyo Verdy,Gamba Osaka,3371
+Ehime FC,Tochigi SC,3372
+Tokushima Vortis,Yokohama FC,3372
+Tochigi SC,Avispa Fukuoka,3376
+JEF United Chiba,Consadole Sapporo,3378
+Ehime FC,Giravanz Kitakyushu,3379
+Vissel Kobe,JEF United Chiba,3381
+Tokyo Verdy,Mito Hollyhock,3383
+Avispa Fukuoka,Ehime FC,3384
+Gamba Osaka,Consadole Sapporo,3384
+Tochigi SC,Vissel Kobe,3390
+Vissel Kobe,Gamba Osaka,3393
+Vissel Kobe,Ehime FC,3393
+Avispa Fukuoka,Kataller Toyama,3394
+Avispa Fukuoka,Gainare Tottori,3396
+Tochigi SC,V-Varen Nagasaki,3398
+Tokushima Vortis,Vissel Kobe,3401
+Yokohama FC,Vissel Kobe,3401
+Gainare Tottori,Giravanz Kitakyushu,3401
+Avispa Fukuoka,Mito Hollyhock,3403
+Thespa Kusatsu Gunma,Yokohama FC,3409
+Yokohama FC,Ehime FC,3409
+JEF United Chiba,Gamba Osaka,3416
+Yokohama FC,Mito Hollyhock,3418
+Kataller Toyama,Tokyo Verdy,3419
+Tokyo Verdy,Vissel Kobe,3419
+Avispa Fukuoka,Fagiano Okayama,3420
+Kyoto Sanga FC,Gamba Osaka,3422
+Tochigi SC,Kataller Toyama,3423
+Kyoto Sanga FC,Gainare Tottori,3425
+Yokohama FC,Tokyo Verdy,3429
+Consadole Sapporo,Gainare Tottori,3430
+Giravanz Kitakyushu,JEF United Chiba,3432
+JEF United Chiba,Yokohama FC,3434
+Gainare Tottori,Consadole Sapporo,3442
+JEF United Chiba,Thespa Kusatsu Gunma,3443
+Tokushima Vortis,FC Gifu,3444
+Tokyo Verdy,Yokohama FC,3458
+Tokushima Vortis,JEF United Chiba,3459
+Gainare Tottori,Kyoto Sanga FC,3464
+Ehime FC,Montedio Yamagata,3467
+Roasso Kumamoto,Consadole Sapporo,3468
+Gamba Osaka,Kataller Toyama,3471
+Vissel Kobe,Fagiano Okayama,3473
+Ehime FC,V-Varen Nagasaki,3473
+Gainare Tottori,Gamba Osaka,3475
+Ehime FC,Thespa Kusatsu Gunma,3476
+Tokyo Verdy,Thespa Kusatsu Gunma,3477
+Vissel Kobe,Yokohama FC,3478
+Vissel Kobe,FC Gifu,3479
+Ehime FC,Avispa Fukuoka,3479
+Vissel Kobe,Mito Hollyhock,3481
+V-Varen Nagasaki,Tokyo Verdy,3484
+Consadole Sapporo,Yokohama FC,3485
+Giravanz Kitakyushu,Kataller Toyama,3487
+Ehime FC,Fagiano Okayama,3487
+V-Varen Nagasaki,Gamba Osaka,3488
+JEF United Chiba,FC Gifu,3490
+Gamba Osaka,Gainare Tottori,3492
+Tokushima Vortis,Mito Hollyhock,3492
+FC Gifu,Avispa Fukuoka,3495
+Giravanz Kitakyushu,Gamba Osaka,3498
+Tokyo Verdy,Kyoto Sanga FC,3501
+Giravanz Kitakyushu,Kyoto Sanga FC,3502
+Kataller Toyama,JEF United Chiba,3504
+Fagiano Okayama,Vissel Kobe,3506
+Gamba Osaka,Tokushima Vortis,3507
+Ehime FC,Yokohama FC,3507
+Gamba Osaka,Yokohama FC,3513
+Tokushima Vortis,Kyoto Sanga FC,3513
+FC Gifu,Tokushima Vortis,3514
+Giravanz Kitakyushu,Montedio Yamagata,3518
+Consadole Sapporo,Kyoto Sanga FC,3520
+Giravanz Kitakyushu,FC Gifu,3531
+Tokyo Verdy,Avispa Fukuoka,3533
+FC Gifu,Montedio Yamagata,3539
+Giravanz Kitakyushu,Mito Hollyhock,3541
+Tochigi SC,Gamba Osaka,3542
+Matsumoto Yamaga FC,Kyoto Sanga FC,3545
+Kataller Toyama,Gamba Osaka,3548
+FC Gifu,Roasso Kumamoto,3548
+Yokohama FC,Giravanz Kitakyushu,3548
+Avispa Fukuoka,Gamba Osaka,3550
+V-Varen Nagasaki,JEF United Chiba,3551
+Kyoto Sanga FC,Tokushima Vortis,3557
+Consadole Sapporo,Matsumoto Yamaga FC,3558
+V-Varen Nagasaki,Giravanz Kitakyushu,3559
+Gamba Osaka,Avispa Fukuoka,3565
+Roasso Kumamoto,JEF United Chiba,3566
+JEF United Chiba,Roasso Kumamoto,3567
+JEF United Chiba,Gainare Tottori,3571
+Gamba Osaka,Tochigi SC,3572
+Vissel Kobe,V-Varen Nagasaki,3585
+Gamba Osaka,Thespa Kusatsu Gunma,3604
+Ehime FC,Gamba Osaka,3605
+FC Gifu,Gamba Osaka,3614
+Roasso Kumamoto,Kataller Toyama,3624
+Fagiano Okayama,JEF United Chiba,3625
+Gamba Osaka,Matsumoto Yamaga FC,3632
+Tokyo Verdy,Ehime FC,3633
+Tokushima Vortis,Matsumoto Yamaga FC,3635
+Giravanz Kitakyushu,Vissel Kobe,3640
+Vissel Kobe,Avispa Fukuoka,3643
+JEF United Chiba,Fagiano Okayama,3645
+Roasso Kumamoto,Gamba Osaka,3657
+JEF United Chiba,Tokushima Vortis,3657
+Vissel Kobe,Consadole Sapporo,3659
+Gamba Osaka,V-Varen Nagasaki,3668
+Giravanz Kitakyushu,Tokushima Vortis,3669
+Fagiano Okayama,Gamba Osaka,3669
+Tokushima Vortis,Gamba Osaka,3670
+Gamba Osaka,Fagiano Okayama,3673
+Consadole Sapporo,Gamba Osaka,3679
+Thespa Kusatsu Gunma,Gamba Osaka,3683
+Tokyo Verdy,Tokushima Vortis,3693
+Tokyo Verdy,Giravanz Kitakyushu,3709
+Tokushima Vortis,Tokyo Verdy,3730
+Ehime FC,Matsumoto Yamaga FC,3741
+JEF United Chiba,Giravanz Kitakyushu,3743
+Gamba Osaka,Roasso Kumamoto,3757
+Tokushima Vortis,Giravanz Kitakyushu,3763
+Mito Hollyhock,JEF United Chiba,3766
+Gamba Osaka,JEF United Chiba,3810
+Kataller Toyama,Tokushima Vortis,3816
+Fagiano Okayama,Tokushima Vortis,3822
+Yokohama FC,Gamba Osaka,3826
+Gamba Osaka,FC Gifu,3863
+Tokushima Vortis,Gainare Tottori,3888
+Gamba Osaka,Ehime FC,3899
+Gamba Osaka,Mito Hollyhock,4044

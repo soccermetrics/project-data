@@ -12,6 +12,7 @@ Links will be added here.
 
 Publication Date | Articles | Folder
 -----------------|----------|---------
+January 1, 2016 | [Effective time in J-League 2015: Club impact in J1](http://www.soccermetrics.net/match-quality-metrics/j-league-div-1-2015-effective-time-club-impact) | `jleague-effective-time`
 November 11, 2015 | [MLS Front-Office Efficiency: 2015 edition](http://www.soccermetrics.net/football-business-analytics/front-office-efficiency-football-business-analytics/mls-front-office-efficiency-2015-edition) | `mls-front-office-efficiency`
 March 31, 2011 | [A proposal for allocation of at-large slots to the NCAA basketball tournament](http://www.soccermetrics.net/clubleague-coefficients/allocation-proposal-at-large-slots-to-ncaa-basketball-tournament) | `ncaa-tournament-allocation`
 
@@ -19,4 +20,4 @@ March 31, 2011 | [A proposal for allocation of at-large slots to the NCAA basket
 
 The data will be available under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) and the code under the [MIT License](https://opensource.org/licenses/MIT).
 
-(c) 2015 Soccermetrics Research, LLC.
+(c) 2015-2016 Soccermetrics Research, LLC.
