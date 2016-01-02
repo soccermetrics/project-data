@@ -21,3 +21,9 @@ Header | Definition
 `Std_cost` | Standardized win cost
 
 The front-office efficiency metric and the terms in the header file are explained in the post [MLS Front-Office Efficiency: Making It Better](http://www.soccermetrics.net/football-business-analytics/front-office-efficiency-football-business-analytics/mls-front-office-efficiency-formulation-version-4).
+
+Sources:
+
+* MLS Players Union Salary Data
+* Major League Soccer
+* ENB Sports Soccer Player Database

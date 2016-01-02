@@ -5,3 +5,4 @@ A scoring system used to rank performance of basketball conferences in the NCAA 
 
 This data was used in [A proposal for allocation of at-large slots to the NCAA basketball tournament](http://www.soccermetrics.net/clubleague-coefficients/allocation-proposal-at-large-slots-to-ncaa-basketball-tournament).
 
+Source: StatGeek

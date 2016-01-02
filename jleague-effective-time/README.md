@@ -27,4 +27,14 @@ These data were used in the following articles:
 * [Updating effective time analysis in J-League matches](http://www.soccermetrics.net/match-quality-metrics/updating-effective-time-analysis-in-j-league-matches)
 * [Effective time in J-League 2014: Club impact in J1](http://www.soccermetrics.net/match-quality-metrics/j-league-2014-effective-time-club-impact)
 * [Effective time in J-League 2014: Club impact in J2](http://www.soccermetrics.net/match-quality-metrics/j-league-div-2-2014-effective-time-club-impact)
-* [Effective time in J-League 2015: Club impact in J1]()
+* [Effective time in J-League 2015: Club impact in J1](http://www.soccermetrics.net/match-quality-metrics/j-league-div-1-2015-effective-time-club-impact)
+* [Effective time in J-League 2015: Club impact in J2](http://www.soccermetrics.net/match-quality-metrics/j-league-div-2-2015-effective-time-club-impact)
+
+There is also an iPython notebook that describes and carries out the Bayesian analysis. The notebook requires `pymc`,
+`numpy`, and `pandas`.  To run the analysis on different files, just change the name of the `data_file` variable in
+the notebook and rerun the cells.
+
+Sources:
+
+* J-League Plus Quality
+* Datastadium Inc.
