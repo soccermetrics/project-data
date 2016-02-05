@@ -1,0 +1,381 @@
+Date,Matchday,Venue,Home Team,Away Team,Home Mgr,Away Mgr,Referee,Attendance,1st Half,2nd Half,KO Time,KO Temp,KO Humidity,KO Wx,HT Wx,FT Wx
+2011-08-13,1,Sports Direct Arena,Newcastle United,Arsenal,Alan Pardew,Arsène Wenger,Peter Walton,46894,46,48,18:30,17,,Few Clouds,Mostly Cloudy,Mostly Cloudy
+2011-08-13,1,Craven Cottage,Fulham,Aston Villa,Martin Jol,Alex McLeish,Lee Mason,25700,47,45,16:00,20,,Few Clouds,Mostly Cloudy,Partly Cloudy
+2011-08-13,1,Ewood Park,Blackburn Rovers,Wolverhampton Wanderers,Steve Kean,Mick McCarthy,Kevin Friend,21996,45,45,16:00,19,,Few Clouds,Partly Cloudy,Partly Cloudy
+2011-08-13,1,Anfield,Liverpool,Sunderland,Kenny Dalglish,Steve Bruce,Philip Dowd,45018,46,45,16:00,18,,Few Clouds,Partly Cloudy,Partly Cloudy
+2011-08-13,1,Loftus Road,Queens Park Rangers,Bolton Wanderers,Neil Warnock,Owen Coyle,Martin Atkinson,15195,47,49,16:00,20,,Mostly Cloudy,Few Clouds,Mostly Cloudy
+2011-08-13,1,DW Stadium,Wigan Athletic,Norwich City,Roberto Martínez,Paul Lambert,Stuart Attwell,17454,45,45,16:00,19,,Few Clouds,Mostly Cloudy,Few Clouds
+2011-08-14,1,The Hawthorns,West Bromwich Albion,Manchester United,Roy Hodgson,Alex Ferguson,Michael Jones,25360,45,46,17:00,20,,Clear,Clear,Clear
+2011-08-14,1,Britannia Stadium,Stoke City,Chelsea,Tony Pulis,André Villas-Boas,Mark Halsey,27421,45,45,14:30,12,,Few Clouds,Partly Cloudy,Partly Cloudy
+2011-08-15,1,Etihad Stadium,Manchester City,Swansea City,Roberto Mancini,Brendan Rodgers,Michael Dean,46802,45,45,21:00,15,,Few Clouds,Light Rain,Rain
+2012-01-11,1,White Hart Lane,Tottenham Hotspur,Everton,Harry Redknapp,David Moyes,Martin Atkinson,36312,47,45,20:45,10,,Mostly Cloudy,Mostly Cloudy,Partly Cloudy
+2011-08-20,2,Stamford Bridge,Chelsea,West Bromwich Albion,André Villas-Boas,Roy Hodgson,Lee Mason,41091,45,46,18:30,21.1,,Clear,Clear,Clear
+2011-08-20,2,Emirates Stadium,Arsenal,Liverpool,Arsène Wenger,Kenny Dalglish,Martin Atkinson,60090,45,45,13:45,17,,Rain,Rain,Partly Cloudy
+2011-08-20,2,Goodison Park,Everton,Queens Park Rangers,David Moyes,Neil Warnock,Kevin Friend,35008,45,45,16:00,19,,Partly Cloudy and Windy,Mostly Cloudy,Mostly Cloudy
+2011-08-20,2,Stadium of Light,Sunderland,Newcastle United,Steve Bruce,Alan Pardew,Howard Webb,47751,45,45,13:00,18,,Partly Cloudy and Windy,Partly Cloudy and Windy,Mostly Cloudy and Windy
+2011-08-20,2,Liberty Stadium,Swansea City,Wigan Athletic,Brendan Rodgers,Roberto Martínez,Philip Dowd,19028,45,46,16:00,19,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-08-20,2,Villa Park,Aston Villa,Blackburn Rovers,Alex McLeish,Steve Kean,Stuart Attwell,32319,45,45,16:00,19,,Partly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-08-21,2,Molineux Stadium,Wolverhampton Wanderers,Fulham,Mick McCarthy,Martin Jol,Michael Dean,22657,45,47,15:00,24,,Partly Cloudy,Partly Cloudy,Few Clouds
+2011-08-21,2,Carrow Road,Norwich City,Stoke City,Paul Lambert,Tony Pulis,Neil Swarbrick,26272,45,49,14:30,23,,Partly Cloudy,Light Rain,Partly Cloudy
+2011-08-21,2,Reebok Stadium,Bolton Wanderers,Manchester City,Owen Coyle,Roberto Mancini,Michael Jones,24273,45,45,17:00,18,,Few Clouds,Few Clouds,Partly Cloudy
+2011-08-22,2,Old Trafford,Manchester United,Tottenham Hotspur,Alex Ferguson,Harry Redknapp,Lee Probert,75498,45,47,21:00,17.8,,Clear,Clear,Clear
+2012-02-26,26,Britannia Stadium,Stoke City,Swansea City,Tony Pulis,Brendan Rodgers,Howard Webb,26678,45,45,16:00,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-08-27,3,Stamford Bridge,Chelsea,Norwich City,André Villas-Boas,Paul Lambert,Michael Jones,41765,45,46,16:00,17.2,,Partly Cloudy,Few Clouds,Partly Cloudy
+2011-08-27,3,Liberty Stadium,Swansea City,Sunderland,Brendan Rodgers,Steve Bruce,Mark Halsey,19938,45,45,16:00,16,,Few Clouds,Mostly Cloudy,Mostly Cloudy
+2011-08-27,3,Anfield,Liverpool,Bolton Wanderers,Kenny Dalglish,Owen Coyle,Lee Probert,44725,45,47,18:30,15,,Few Clouds,Partly Cloudy,Partly Cloudy
+2011-08-27,3,Ewood Park,Blackburn Rovers,Everton,Steve Kean,David Moyes,Lee Mason,22826,46,48,16:00,16,,Few Clouds,Partly Cloudy,Partly Cloudy
+2011-08-27,3,Villa Park,Aston Villa,Wolverhampton Wanderers,Alex McLeish,Mick McCarthy,Martin Atkinson,30776,46,45,13:05,14,,Few Clouds,Rain,Mostly Cloudy
+2011-08-27,3,DW Stadium,Wigan Athletic,Queens Park Rangers,Roberto Martínez,Neil Warnock,Michael Oliver,17225,45,45,13:30,14,,Partly Cloudy,Few Clouds,Few Clouds
+2011-08-28,3,Sports Direct Arena,Newcastle United,Fulham,Alan Pardew,Martin Jol,Kevin Friend,42685,45,50,14:00,15,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-08-28,3,White Hart Lane,Tottenham Hotspur,Manchester City,Harry Redknapp,Roberto Mancini,Philip Dowd,36150,45,48,14:30,16,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-08-28,3,Old Trafford,Manchester United,Arsenal,Alex Ferguson,Arsène Wenger,Howard Webb,75448,48,46,17:00,15,,Light Rain,Few Clouds,Partly Cloudy
+2011-08-28,3,The Hawthorns,West Bromwich Albion,Stoke City,Roy Hodgson,Tony Pulis,Michael Dean,22909,45,45,16:00,16,,Partly Cloudy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2011-09-10,4,Emirates Stadium,Arsenal,Swansea City,Arsène Wenger,Brendan Rodgers,Stuart Attwell,60087,45,45,16:00,20,,Rain,Partly Cloudy,Partly Cloudy
+2011-09-10,4,Etihad Stadium,Manchester City,Wigan Athletic,Roberto Mancini,Roberto Martínez,Martin Atkinson,46509,45,45,16:00,22,,Partly Cloudy,Partly Cloudy,Few Clouds
+2011-09-10,4,Molineux Stadium,Wolverhampton Wanderers,Tottenham Hotspur,Mick McCarthy,Harry Redknapp,Peter Walton,25274,45,45,16:00,22,,Few Clouds,Few Clouds,Light Rain
+2011-09-10,4,Goodison Park,Everton,Aston Villa,David Moyes,Alex McLeish,Michael Oliver,32736,45,45,16:00,22,,Few Clouds,Few Clouds,Partly Cloudy
+2011-09-10,4,Stadium of Light,Sunderland,Chelsea,Steve Bruce,André Villas-Boas,Lee Probert,36699,45,46,16:00,21,,Partly Cloudy and Windy,Light Rain,Few Clouds
+2011-09-10,4,Reebok Stadium,Bolton Wanderers,Manchester United,Owen Coyle,Alex Ferguson,Andre Marriner,25944,45,45,18:30,19,,Partly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy
+2011-09-10,4,Britannia Stadium,Stoke City,Liverpool,Tony Pulis,Kenny Dalglish,Mark Clattenburg,27592,45,46,16:00,22,,Partly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2011-09-11,4,Craven Cottage,Fulham,Blackburn Rovers,Martin Jol,Steve Kean,Howard Webb,24856,45,48,17:00,19,,Few Clouds,Light Rain,Light Rain
+2011-09-11,4,Carrow Road,Norwich City,West Bromwich Albion,Paul Lambert,Roy Hodgson,Mark Halsey,26158,45,50,14:30,20,,Few Clouds,Few Clouds,Light Rain
+2011-09-12,4,Loftus Road,Queens Park Rangers,Newcastle United,Neil Warnock,Alan Pardew,Philip Dowd,16211,45,45,21:00,16,,Clear and Windy,Partly Cloudy and Windy,Clear and Windy
+2011-09-17,5,Goodison Park,Everton,Wigan Athletic,David Moyes,Roberto Martínez,Peter Walton,31576,45,53,16:00,14,,Few Clouds,Few Clouds,Few Clouds
+2011-09-17,5,Molineux Stadium,Wolverhampton Wanderers,Queens Park Rangers,Mick McCarthy,Neil Warnock,Anthony Taylor,24189,45,48,16:00,17,,Partly Cloudy and Windy,Heavy Rain,Few Clouds
+2011-09-17,5,Liberty Stadium,Swansea City,West Bromwich Albion,Brendan Rodgers,Roy Hodgson,Martin Atkinson,20341,45,45,16:00,13,,Partly Cloudy,Heavy Rain,Partly Cloudy
+2011-09-17,5,Ewood Park,Blackburn Rovers,Arsenal,Steve Kean,Arsène Wenger,Andre Marriner,22637,45,45,13:45,13,,Partly Cloudy and Windy,Light Rain,Few Clouds
+2011-09-17,5,Reebok Stadium,Bolton Wanderers,Norwich City,Owen Coyle,Paul Lambert,Howard Webb,21223,46,48,16:00,14,,Few Clouds,Few Clouds,Partly Cloudy
+2011-09-17,5,Villa Park,Aston Villa,Newcastle United,Alex McLeish,Alan Pardew,Neil Swarbrick,34248,45,45,16:00,17,,Few Clouds,Few Clouds,Few Clouds
+2011-09-18,5,White Hart Lane,Tottenham Hotspur,Liverpool,Harry Redknapp,Kenny Dalglish,Michael Jones,36129,49,48,14:30,16,,Mostly Cloudy,Few Clouds,Few Clouds
+2011-09-18,5,Old Trafford,Manchester United,Chelsea,Alex Ferguson,André Villas-Boas,Philip Dowd,75455,45,45,17:00,15,,Partly Cloudy,Few Clouds,Light Rain
+2011-09-18,5,Craven Cottage,Fulham,Manchester City,Martin Jol,Roberto Mancini,Mark Clattenburg,24750,45,45,16:00,16,,Few Clouds,Few Clouds,Few Clouds
+2011-09-18,5,Stadium of Light,Sunderland,Stoke City,Steve Bruce,Tony Pulis,Kevin Friend,32296,45,50,16:00,13,,Light Rain,Light Rain,Partly Cloudy
+2011-09-24,6,Stamford Bridge,Chelsea,Swansea City,André Villas-Boas,Brendan Rodgers,Michael Dean,41800,45,49,16:00,19.4,,Clear,Partly Cloudy,Clear
+2011-09-24,6,Sports Direct Arena,Newcastle United,Blackburn Rovers,Alan Pardew,Steve Kean,Martin Atkinson,46236,45,50,16:00,16,,Mostly Cloudy,Few Clouds,Few Clouds
+2011-09-24,6,Emirates Stadium,Arsenal,Bolton Wanderers,Arsène Wenger,Owen Coyle,Mark Clattenburg,59727,45,45,16:00,19,,Clear,Partly Cloudy,Clear
+2011-09-24,6,Etihad Stadium,Manchester City,Everton,Roberto Mancini,David Moyes,Howard Webb,47293,45,45,13:45,17,,Mostly Cloudy,Light Rain,Light Rain
+2011-09-24,6,Anfield,Liverpool,Wolverhampton Wanderers,Kenny Dalglish,Mick McCarthy,Kevin Friend,44922,45,45,16:00,17,,Mostly Cloudy,Partly Cloudy,Few Clouds
+2011-09-24,6,The Hawthorns,West Bromwich Albion,Fulham,Roy Hodgson,Martin Jol,Stuart Attwell,23835,45,45,16:00,18,,Partly Cloudy,Partly Cloudy and Windy,Partly Cloudy
+2011-09-24,6,DW Stadium,Wigan Athletic,Tottenham Hotspur,Roberto Martínez,Harry Redknapp,Jonathan Moss,18788,45,48,16:00,16,,Light Rain,Light Rain,Mostly Cloudy
+2011-09-24,6,Britannia Stadium,Stoke City,Manchester United,Tony Pulis,Alex Ferguson,Peter Walton,27582,45,47,18:30,15,,Few Clouds,Mostly Cloudy,Mostly Cloudy
+2011-09-25,6,Loftus Road,Queens Park Rangers,Aston Villa,Neil Warnock,Alex McLeish,Michael Oliver,16707,45,48,17:00,20,,Partly Cloudy,Partly Cloudy,Partly Cloudy and Windy
+2011-09-26,6,Carrow Road,Norwich City,Sunderland,Paul Lambert,Steve Bruce,Christopher Foy,26107,45,49,21:00,14,,Clear,Clear,Clear
+2011-10-01,7,Molineux Stadium,Wolverhampton Wanderers,Newcastle United,Mick McCarthy,Alan Pardew,Mark Halsey,26561,45,47,16:00,28,,Clear,Clear,Clear
+2011-10-01,7,Old Trafford,Manchester United,Norwich City,Alex Ferguson,Paul Lambert,Stuart Attwell,75514,45,45,16:00,27,,Clear,Clear,Clear
+2011-10-01,7,Goodison Park,Everton,Liverpool,David Moyes,Kenny Dalglish,Martin Atkinson,39510,45,45,13:45,26,,Clear,Clear,Clear
+2011-10-01,7,Stadium of Light,Sunderland,West Bromwich Albion,Steve Bruce,Roy Hodgson,Lee Mason,34815,45,46,16:00,25,,Partly Cloudy,Partly Cloudy,Clear
+2011-10-01,7,Ewood Park,Blackburn Rovers,Manchester City,Steve Kean,Roberto Mancini,Philip Dowd,24760,45,45,16:00,27,,Clear,Clear,Clear
+2011-10-01,7,Villa Park,Aston Villa,Wigan Athletic,Alex McLeish,Roberto Martínez,Mark Clattenburg,30744,45,45,16:00,28,,Clear,Clear,Clear
+2011-10-02,7,White Hart Lane,Tottenham Hotspur,Arsenal,Harry Redknapp,Arsène Wenger,Michael Dean,36274,45,45,17:00,26,,Clear,Clear,Clear
+2011-10-02,7,Craven Cottage,Fulham,Queens Park Rangers,Martin Jol,Neil Warnock,Andre Marriner,23776,45,45,16:00,27,,Clear,Clear,Clear
+2011-10-02,7,Liberty Stadium,Swansea City,Stoke City,Brendan Rodgers,Tony Pulis,Michael Jones,19523,45,46,16:00,18,,Few Clouds,Partly Cloudy,Mostly Cloudy
+2011-10-02,7,Reebok Stadium,Bolton Wanderers,Chelsea,Owen Coyle,André Villas-Boas,Peter Walton,24657,45,45,14:30,21,,Clear,Light Rain,Light Rain
+2011-10-15,8,Stamford Bridge,Chelsea,Everton,André Villas-Boas,David Moyes,Michael Jones,42789,47,45,18:30,14.4,,Clear,Clear,Clear
+2011-10-15,8,Etihad Stadium,Manchester City,Aston Villa,Roberto Mancini,Alex McLeish,Anthony Taylor,47019,45,45,16:00,14,,Partly Cloudy,Clear,Clear
+2011-10-15,8,Anfield,Liverpool,Manchester United,Kenny Dalglish,Alex Ferguson,Andre Marriner,45065,45,45,13:45,15,,Clear,Clear,Clear
+2011-10-15,8,Carrow Road,Norwich City,Swansea City,Paul Lambert,Brendan Rodgers,Jonathan Moss,26567,45,45,16:00,16,,Clear,Clear,Clear
+2011-10-15,8,Loftus Road,Queens Park Rangers,Blackburn Rovers,Neil Warnock,Steve Kean,Mark Clattenburg,16487,45,45,16:00,17,,Clear,Clear,Clear
+2011-10-15,8,DW Stadium,Wigan Athletic,Bolton Wanderers,Roberto Martínez,Owen Coyle,Michael Dean,17261,48,49,16:00,15,,Partly Cloudy,Partly Cloudy,Clear
+2011-10-15,8,Britannia Stadium,Stoke City,Fulham,Tony Pulis,Martin Jol,Martin Atkinson,26890,45,45,16:00,15,,Partly Cloudy,Partly Cloudy,Clear
+2011-10-16,8,Sports Direct Arena,Newcastle United,Tottenham Hotspur,Alan Pardew,Harry Redknapp,Lee Probert,46420,45,46,17:00,14,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-10-16,8,Emirates Stadium,Arsenal,Sunderland,Arsène Wenger,Steve Bruce,Howard Webb,60078,45,45,14:30,16,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-10-16,8,The Hawthorns,West Bromwich Albion,Wolverhampton Wanderers,Roy Hodgson,Mick McCarthy,Christopher Foy,24872,45,45,13:00,16,,Partly Cloudy,Partly Cloudy,Mostly Cloudy
+2011-10-22,9,Reebok Stadium,Bolton Wanderers,Sunderland,Owen Coyle,Steve Bruce,Michael Jones,24349,45,48,16:00,15,,Light Rain,Light Rain,Rain
+2011-10-22,9,Sports Direct Arena,Newcastle United,Wigan Athletic,Alan Pardew,Roberto Martínez,Neil Swarbrick,48321,45,49,16:00,12,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-10-22,9,Anfield,Liverpool,Norwich City,Kenny Dalglish,Paul Lambert,Peter Walton,44931,45,47,18:30,11,,Clear,Clear,Clear
+2011-10-22,9,Villa Park,Aston Villa,West Bromwich Albion,Alex McLeish,Roy Hodgson,Philip Dowd,34152,45,45,16:00,14,,Clear and Windy,Clear,Partly Cloudy
+2011-10-22,9,Molineux Stadium,Wolverhampton Wanderers,Swansea City,Mick McCarthy,Brendan Rodgers,Michael Oliver,25216,45,45,13:45,15,,Partly Cloudy,Partly Cloudy,Partly Cloudy and Windy
+2011-10-23,9,Emirates Stadium,Arsenal,Stoke City,Arsène Wenger,Tony Pulis,Lee Mason,59671,45,45,14:30,19,,Clear,Clear,Clear
+2011-10-23,9,Old Trafford,Manchester United,Manchester City,Alex Ferguson,Roberto Mancini,Mark Clattenburg,75487,45,48,14:30,16,,Partly Cloudy,Clear,Partly Cloudy
+2011-10-23,9,Craven Cottage,Fulham,Everton,Martin Jol,David Moyes,Lee Probert,25646,45,48,14:30,19,,Clear,Clear,Clear
+2011-10-23,9,Ewood Park,Blackburn Rovers,Tottenham Hotspur,Steve Kean,Harry Redknapp,Stuart Attwell,22786,45,45,16:00,17,,Partly Cloudy and Windy,Partly Cloudy,Partly Cloudy and Windy
+2011-10-23,9,Loftus Road,Queens Park Rangers,Chelsea,Neil Warnock,André Villas-Boas,Christopher Foy,18050,46,45,17:00,17,,Clear,Clear,Clear
+2011-10-29,10,Goodison Park,Everton,Manchester United,David Moyes,Alex Ferguson,Mark Halsey,35494,45,50,13:00,11,,Clear,Few Clouds,Few Clouds
+2011-10-29,10,Stamford Bridge,Chelsea,Arsenal,André Villas-Boas,Arsène Wenger,Andre Marriner,41801,45,47,13:45,16,,Few Clouds,Few Clouds,Few Clouds
+2011-10-29,10,Etihad Stadium,Manchester City,Wolverhampton Wanderers,Roberto Mancini,Mick McCarthy,Stuart Attwell,47142,45,45,16:00,12,,Few Clouds,Few Clouds,Partly Cloudy
+2011-10-29,10,Carrow Road,Norwich City,Blackburn Rovers,Paul Lambert,Steve Kean,Anthony Taylor,26440,48,49,16:00,15,,Few Clouds,Partly Cloudy and Windy,Few Clouds
+2011-10-29,10,Liberty Stadium,Swansea City,Bolton Wanderers,Brendan Rodgers,Owen Coyle,Mark Clattenburg,19477,45,49,16:00,13,,Mostly Cloudy,Rain,Mostly Cloudy
+2011-10-29,10,The Hawthorns,West Bromwich Albion,Liverpool,Roy Hodgson,Kenny Dalglish,Lee Mason,25522,46,45,18:30,12,,Light Rain,Mostly Cloudy,Light Rain
+2011-10-29,10,DW Stadium,Wigan Athletic,Fulham,Roberto Martínez,Martin Jol,Michael Jones,15796,45,46,16:00,12,,Light Rain,Light Rain,Few Clouds
+2011-10-29,10,Stadium of Light,Sunderland,Aston Villa,Steve Bruce,Alex McLeish,Christopher Foy,37062,45,45,16:00,12,,Few Clouds,Few Clouds,Few Clouds
+2011-10-30,10,White Hart Lane,Tottenham Hotspur,Queens Park Rangers,Harry Redknapp,Neil Warnock,Howard Webb,36147,45,45,17:00,15,,Mostly Cloudy,Few Clouds,Mostly Cloudy
+2011-10-31,10,Britannia Stadium,Stoke City,Newcastle United,Tony Pulis,Alan Pardew,Michael Dean,26564,45,46,21:00,14,,Clear,Partly Cloudy,Mostly Cloudy
+2011-11-05,11,Sports Direct Arena,Newcastle United,Everton,Alan Pardew,David Moyes,Andre Marriner,50671,47,45,13:45,11,,Clear,Partly Cloudy,Clear
+2011-11-05,11,Emirates Stadium,Arsenal,West Bromwich Albion,Arsène Wenger,Roy Hodgson,Michael Oliver,60091,45,45,16:00,14,,Mostly Cloudy,Mostly Cloudy,Fog/Mist
+2011-11-05,11,Old Trafford,Manchester United,Sunderland,Alex Ferguson,Steve Bruce,Lee Mason,75570,48,47,16:00,10,,Clear,Clear,Clear
+2011-11-05,11,Anfield,Liverpool,Swansea City,Kenny Dalglish,Brendan Rodgers,Philip Dowd,45013,45,47,16:00,12,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-11-05,11,Ewood Park,Blackburn Rovers,Chelsea,Steve Kean,André Villas-Boas,Michael Dean,21985,46,47,16:00,10,,Clear,Clear,Clear
+2011-11-05,11,Loftus Road,Queens Park Rangers,Manchester City,Neil Warnock,Roberto Mancini,Martin Atkinson,18076,45,46,18:30,13,,Fog/Mist,Fog/Mist,Fog/Mist
+2011-11-05,11,Villa Park,Aston Villa,Norwich City,Alex McLeish,Paul Lambert,Kevin Friend,35290,47,46,16:00,11,,Mostly Cloudy,Mostly Cloudy,Partly Cloudy
+2011-11-06,11,Craven Cottage,Fulham,Tottenham Hotspur,Martin Jol,Harry Redknapp,Peter Walton,25698,46,50,17:00,11,,Mostly Cloudy,Overcast,Mostly Cloudy
+2011-11-06,11,Molineux Stadium,Wolverhampton Wanderers,Wigan Athletic,Mick McCarthy,Roberto Martínez,Lee Probert,23530,45,45,14:30,11,,Partly Cloudy,Partly Cloudy,Clear
+2011-11-06,11,Reebok Stadium,Bolton Wanderers,Stoke City,Owen Coyle,Tony Pulis,Howard Webb,20028,45,47,16:00,10,,Partly Cloudy,Clear,Partly Cloudy
+2011-11-19,12,Etihad Stadium,Manchester City,Newcastle United,Roberto Mancini,Alan Pardew,Christopher Foy,47408,45,45,16:00,9,,Fog/Mist,Mostly Cloudy,Mostly Cloudy
+2011-11-19,12,Goodison Park,Everton,Wolverhampton Wanderers,David Moyes,Mick McCarthy,Jonathan Moss,33953,45,49,16:00,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-11-19,12,Stadium of Light,Sunderland,Fulham,Steve Bruce,Martin Jol,Anthony Taylor,36766,45,45,16:00,8,,Clear,Clear,Clear
+2011-11-19,12,Carrow Road,Norwich City,Arsenal,Paul Lambert,Arsène Wenger,Philip Dowd,26801,45,47,13:45,13,,Clear,Clear,Clear
+2011-11-19,12,Liberty Stadium,Swansea City,Manchester United,Brendan Rodgers,Alex Ferguson,Michael Dean,20295,45,45,18:30,11,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-11-19,12,The Hawthorns,West Bromwich Albion,Bolton Wanderers,Roy Hodgson,Owen Coyle,Neil Swarbrick,26221,45,47,16:00,10,,Overcast,Mostly Cloudy,Fog/Mist
+2011-11-19,12,DW Stadium,Wigan Athletic,Blackburn Rovers,Roberto Martínez,Steve Kean,Andre Marriner,17392,45,54,16:00,9,,Fog/Mist,Mostly Cloudy,Overcast
+2011-11-19,12,Britannia Stadium,Stoke City,Queens Park Rangers,Tony Pulis,Neil Warnock,Michael Jones,27618,46,45,16:00,9,,Fog/Mist,Mostly Cloudy,Mostly Cloudy
+2011-11-20,12,Stamford Bridge,Chelsea,Liverpool,André Villas-Boas,Kenny Dalglish,Lee Probert,41820,45,45,17:00,6,,Fog/Mist,Fog/Mist,Fog/Mist
+2011-11-21,12,White Hart Lane,Tottenham Hotspur,Aston Villa,Harry Redknapp,Alex McLeish,Mark Halsey,35818,45,45,21:00,10,,Fog/Mist,Fog/Mist,Mostly Cloudy
+2011-11-26,13,Stamford Bridge,Chelsea,Wolverhampton Wanderers,André Villas-Boas,Mick McCarthy,Lee Mason,41648,45,45,16:00,12,,Partly Cloudy,Few Clouds,Mostly Cloudy
+2011-11-26,13,Emirates Stadium,Arsenal,Fulham,Arsène Wenger,Martin Jol,Michael Dean,60043,46,45,18:30,12,,Partly Cloudy,Mostly Cloudy,Partly Cloudy
+2011-11-26,13,Old Trafford,Manchester United,Newcastle United,Alex Ferguson,Alan Pardew,Michael Jones,75594,45,50,16:00,12,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-11-26,13,Carrow Road,Norwich City,Queens Park Rangers,Paul Lambert,Neil Warnock,Mark Clattenburg,26781,45,45,16:00,12,,Partly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2011-11-26,13,The Hawthorns,West Bromwich Albion,Tottenham Hotspur,Roy Hodgson,Harry Redknapp,Lee Probert,24801,45,48,16:00,12,,Partly Cloudy and Windy,Mostly Cloudy and Windy,Partly Cloudy and Windy
+2011-11-26,13,Reebok Stadium,Bolton Wanderers,Everton,Owen Coyle,David Moyes,Michael Oliver,24058,45,46,16:00,12,,Mostly Cloudy and Windy,Mostly Cloudy and Windy,Mostly Cloudy
+2011-11-26,13,Britannia Stadium,Stoke City,Blackburn Rovers,Tony Pulis,Steve Kean,Mark Halsey,26686,45,45,13:45,12,,Mostly Cloudy and Windy,Mostly Cloudy and Windy,Mostly Cloudy and Windy
+2011-11-26,13,Stadium of Light,Sunderland,Wigan Athletic,Steve Bruce,Roberto Martínez,Kevin Friend,37883,45,48,16:00,13,,Partly Cloudy and Windy,Mostly Cloudy and Windy,Mostly Cloudy and Windy
+2011-11-27,13,Anfield,Liverpool,Manchester City,Kenny Dalglish,Roberto Mancini,Martin Atkinson,45071,45,45,17:00,9,,Partly Cloudy,Partly Cloudy,Few Clouds
+2011-11-27,13,Liberty Stadium,Swansea City,Aston Villa,Brendan Rodgers,Alex McLeish,Neil Swarbrick,20404,45,48,14:30,10,,Partly Cloudy and Windy,Partly Cloudy,Partly Cloudy
+2011-12-03,14,Sports Direct Arena,Newcastle United,Chelsea,Alan Pardew,André Villas-Boas,Michael Dean,52305,45,49,13:45,6,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-12-03,14,White Hart Lane,Tottenham Hotspur,Bolton Wanderers,Harry Redknapp,Owen Coyle,Stuart Attwell,35896,45,45,16:00,10,,Mostly Cloudy,Mostly Cloudy,Few Clouds
+2011-12-03,14,Etihad Stadium,Manchester City,Norwich City,Roberto Mancini,Paul Lambert,Howard Webb,47201,45,46,16:00,7,,Partly Cloudy,Few Clouds,Few Clouds
+2011-12-03,14,Ewood Park,Blackburn Rovers,Swansea City,Steve Kean,Brendan Rodgers,Christopher Foy,23080,47,45,16:00,8,,Partly Cloudy and Windy,Few Clouds,Partly Cloudy and Windy
+2011-12-03,14,Loftus Road,Queens Park Rangers,West Bromwich Albion,Neil Warnock,Roy Hodgson,Martin Atkinson,17290,45,45,16:00,10,,Mostly Cloudy,Mostly Cloudy,Few Clouds
+2011-12-03,14,Villa Park,Aston Villa,Manchester United,Alex McLeish,Alex Ferguson,Lee Probert,40053,45,45,18:30,8,,Partly Cloudy and Windy,Partly Cloudy,Clear
+2011-12-03,14,DW Stadium,Wigan Athletic,Arsenal,Roberto Martínez,Arsène Wenger,Mark Clattenburg,19280,45,45,16:00,8,,Partly Cloudy and Windy,Few Clouds,Few Clouds
+2011-12-04,14,Goodison Park,Everton,Stoke City,David Moyes,Tony Pulis,Lee Mason,33219,45,48,16:00,6,,Few Clouds,Few Clouds,Few Clouds
+2011-12-04,14,Molineux Stadium,Wolverhampton Wanderers,Sunderland,Mick McCarthy,Martin O'Neill,Philip Dowd,25145,45,50,17:00,6,,Light Rain,Mostly Cloudy,Mostly Cloudy
+2011-12-05,14,Craven Cottage,Fulham,Liverpool,Martin Jol,Kenny Dalglish,Kevin Friend,25688,45,47,21:00,5,,Clear,Clear,Clear
+2011-12-10,15,Emirates Stadium,Arsenal,Everton,Arsène Wenger,David Moyes,Howard Webb,66062,45,45,16:00,4.2,,Clear,Clear,Clear
+2011-12-10,15,Old Trafford,Manchester United,Wolverhampton Wanderers,Alex Ferguson,Mick McCarthy,Michael Oliver,75627,45,46,16:00,5,,Few Clouds,Few Clouds,Few Clouds
+2011-12-10,15,Anfield,Liverpool,Queens Park Rangers,Kenny Dalglish,Neil Warnock,Lee Mason,45016,45,45,16:00,6,,Partly Cloudy,Partly Cloudy,Few Clouds
+2011-12-10,15,Carrow Road,Norwich City,Newcastle United,Paul Lambert,Alan Pardew,Martin Atkinson,26816,46,48,16:00,3,,Clear,Clear,Clear
+2011-12-10,15,Liberty Stadium,Swansea City,Fulham,Brendan Rodgers,Martin Jol,Jonathan Moss,19296,45,46,16:00,6,,Partly Cloudy,Partly Cloudy and Windy,Rain
+2011-12-10,15,The Hawthorns,West Bromwich Albion,Wigan Athletic,Roy Hodgson,Roberto Martínez,Michael Dean,25446,45,45,15:00,4,,Partly Cloudy,Partly Cloudy,Mostly Cloudy
+2011-12-10,15,Reebok Stadium,Bolton Wanderers,Aston Villa,Owen Coyle,Alex McLeish,Philip Dowd,20285,45,48,16:00,5,,Few Clouds,Clear,Few Clouds
+2011-12-11,15,Britannia Stadium,Stoke City,Tottenham Hotspur,Tony Pulis,Harry Redknapp,Christopher Foy,27529,45,46,17:00,7,,Partly Cloudy,Light Rain,Few Clouds
+2011-12-11,15,Stadium of Light,Sunderland,Blackburn Rovers,Martin O'Neill,Steve Kean,Peter Walton,39863,45,47,14:30,7,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-12-12,15,Stamford Bridge,Chelsea,Manchester City,André Villas-Boas,Roberto Mancini,Mark Clattenburg,41837,45,45,21:00,8,,Rain,Rain,Rain
+2011-12-17,16,Sports Direct Arena,Newcastle United,Swansea City,Alan Pardew,Brendan Rodgers,Lee Mason,51767,47,45,16:00,1,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-12-17,16,Craven Cottage,Fulham,Bolton Wanderers,Martin Jol,Owen Coyle,Christopher Foy,25643,45,45,16:00,5,,Mostly Cloudy,Mostly Cloudy,Rain
+2011-12-17,16,Goodison Park,Everton,Norwich City,David Moyes,Paul Lambert,Lee Probert,31004,45,45,16:00,5,,Partly Cloudy,Partly Cloudy,Clear
+2011-12-17,16,Ewood Park,Blackburn Rovers,West Bromwich Albion,Steve Kean,Roy Hodgson,Mark Clattenburg,22909,45,47,16:00,3,,Few Clouds,Few Clouds,Few Clouds
+2011-12-17,16,DW Stadium,Wigan Athletic,Chelsea,Roberto Martínez,André Villas-Boas,Martin Atkinson,18320,45,45,18:30,1,,Mostly Cloudy,Partly Cloudy,Clear
+2011-12-17,16,Molineux Stadium,Wolverhampton Wanderers,Stoke City,Mick McCarthy,Tony Pulis,Anthony Taylor,24684,45,45,16:00,5,,Few Clouds,Few Clouds,Partly Cloudy
+2011-12-18,16,White Hart Lane,Tottenham Hotspur,Sunderland,Harry Redknapp,Martin O'Neill,Michael Dean,36021,45,45,16:00,4,,Few Clouds,Partly Cloudy,Partly Cloudy
+2011-12-18,16,Etihad Stadium,Manchester City,Arsenal,Roberto Mancini,Arsène Wenger,Philip Dowd,47303,45,45,17:10,-2,,Clear,Clear,Clear
+2011-12-18,16,Loftus Road,Queens Park Rangers,Manchester United,Neil Warnock,Alex Ferguson,Howard Webb,18033,45,45,13:00,5,,Few Clouds,Mostly Cloudy,Rain
+2011-12-18,16,Villa Park,Aston Villa,Liverpool,Alex McLeish,Kenny Dalglish,Peter Walton,37460,45,45,15:05,0,,Partly Cloudy,Clear,Clear
+2011-12-20,17,Molineux Stadium,Wolverhampton Wanderers,Norwich City,Mick McCarthy,Paul Lambert,Christopher Foy,27067,45,45,20:45,7,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-12-20,17,Ewood Park,Blackburn Rovers,Bolton Wanderers,Steve Kean,Owen Coyle,Martin Atkinson,27570,45,45,21:00,5,,Light Rain,Light Rain,Light Rain
+2011-12-21,17,Sports Direct Arena,Newcastle United,West Bromwich Albion,Alan Pardew,Roy Hodgson,Anthony Taylor,51060,45,45,20:45,11,,Few Clouds,Mostly Cloudy,Mostly Cloudy
+2011-12-21,17,Etihad Stadium,Manchester City,Stoke City,Roberto Mancini,Tony Pulis,Michael Dean,46321,45,45,20:45,11,,Clear,Mostly Cloudy,Partly Cloudy
+2011-12-21,17,Craven Cottage,Fulham,Manchester United,Martin Jol,Alex Ferguson,Mark Halsey,25700,45,45,21:00,12,,Clear,Clear,Clear
+2011-12-21,17,Goodison Park,Everton,Swansea City,David Moyes,Brendan Rodgers,Kevin Friend,32004,46,45,21:00,13,,Clear,Clear,Clear
+2011-12-21,17,Loftus Road,Queens Park Rangers,Sunderland,Neil Warnock,Martin O'Neill,Andre Marriner,16167,45,47,21:00,12,,Clear,Clear,Clear
+2011-12-21,17,Villa Park,Aston Villa,Arsenal,Alex McLeish,Arsène Wenger,Jonathan Moss,35818,45,48,20:45,10,,Clear,Clear,Clear
+2011-12-21,17,DW Stadium,Wigan Athletic,Liverpool,Roberto Martínez,Kenny Dalglish,Michael Oliver,19230,45,46,21:00,11,,Mostly Cloudy,Few Clouds,Clear
+2011-12-22,17,White Hart Lane,Tottenham Hotspur,Chelsea,Harry Redknapp,André Villas-Boas,Howard Webb,36141,48,45,21:00,11,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-12-26,18,Stamford Bridge,Chelsea,Fulham,André Villas-Boas,Martin Jol,Kevin Friend,41548,45,45,14:00,12,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-12-26,18,Old Trafford,Manchester United,Wigan Athletic,Alex Ferguson,Roberto Martínez,Philip Dowd,75183,45,45,16:00,12,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-12-26,18,Anfield,Liverpool,Blackburn Rovers,Kenny Dalglish,Steve Kean,Michael Jones,44441,45,49,16:00,12,,Mostly Cloudy,Mostly Cloudy and Windy,Mostly Cloudy
+2011-12-26,18,Stadium of Light,Sunderland,Everton,Martin O'Neill,David Moyes,Howard Webb,43619,45,45,16:00,12,,Partly Cloudy and Windy,Mostly Cloudy and Windy,Partly Cloudy and Windy
+2011-12-26,18,The Hawthorns,West Bromwich Albion,Manchester City,Roy Hodgson,Roberto Mancini,Lee Mason,25398,45,45,16:00,11,,Overcast and Windy,Mostly Cloudy and Windy,Partly Cloudy and Windy
+2011-12-26,18,Reebok Stadium,Bolton Wanderers,Newcastle United,Owen Coyle,Alan Pardew,Peter Walton,26080,45,45,16:00,12,,Mostly Cloudy and Windy,Mostly Cloudy and Windy,Mostly Cloudy and Windy
+2011-12-26,18,Britannia Stadium,Stoke City,Aston Villa,Tony Pulis,Alex McLeish,Mark Clattenburg,27739,45,45,20:45,10,,Mostly Cloudy and Windy,Mostly Cloudy and Windy,Mostly Cloudy and Windy
+2011-12-27,18,Emirates Stadium,Arsenal,Wolverhampton Wanderers,Arsène Wenger,Mick McCarthy,Stuart Attwell,59686,45,47,16:00,10,,Mostly Cloudy,Mostly Cloudy,Overcast
+2011-12-27,18,Carrow Road,Norwich City,Tottenham Hotspur,Paul Lambert,Harry Redknapp,Michael Oliver,26807,45,49,20:30,9,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-12-27,18,Liberty Stadium,Swansea City,Queens Park Rangers,Brendan Rodgers,Neil Warnock,Lee Probert,19530,45,46,18:00,9,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-12-30,19,Anfield,Liverpool,Newcastle United,Kenny Dalglish,Alan Pardew,Lee Probert,44372,45,45,20:45,11,,Light Rain,Mostly Cloudy and Windy,Mostly Cloudy and Windy
+2011-12-31,19,Stamford Bridge,Chelsea,Aston Villa,André Villas-Boas,Alex McLeish,Mark Halsey,41332,45,45,16:00,12,,Mostly Cloudy,Mostly Cloudy,Overcast
+2011-12-31,19,Emirates Stadium,Arsenal,Queens Park Rangers,Arsène Wenger,Neil Warnock,Martin Atkinson,60067,45,45,16:00,12,,Mostly Cloudy,Mostly Cloudy,Overcast
+2011-12-31,19,Old Trafford,Manchester United,Blackburn Rovers,Alex Ferguson,Steve Kean,Michael Dean,75146,45,45,13:45,12,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-12-31,19,Carrow Road,Norwich City,Fulham,Paul Lambert,Martin Jol,Howard Webb,26406,45,49,16:00,11,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2011-12-31,19,Liberty Stadium,Swansea City,Tottenham Hotspur,Brendan Rodgers,Harry Redknapp,Philip Dowd,20393,45,45,16:00,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2011-12-31,19,Reebok Stadium,Bolton Wanderers,Wolverhampton Wanderers,Owen Coyle,Mick McCarthy,Mark Clattenburg,20354,45,45,16:00,11,,Mostly Cloudy and Windy,Light Rain,Mostly Cloudy and Windy
+2011-12-31,19,Britannia Stadium,Stoke City,Wigan Athletic,Tony Pulis,Roberto Martínez,Michael Oliver,26595,45,48,16:00,11,,Mostly Cloudy and Windy,Light Rain,Mostly Cloudy and Windy
+2012-01-01,19,Stadium of Light,Sunderland,Manchester City,Martin O'Neill,Roberto Mancini,Kevin Friend,40625,45,48,16:00,6,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-01-01,19,The Hawthorns,West Bromwich Albion,Everton,Roy Hodgson,David Moyes,Stuart Attwell,23038,45,48,13:30,10,,Partly Cloudy,Clear,Partly Cloudy
+2012-01-02,20,Molineux Stadium,Wolverhampton Wanderers,Chelsea,Mick McCarthy,André Villas-Boas,Peter Walton,27289,45,45,16:00,5,,Few Clouds,Partly Cloudy,Partly Cloudy
+2012-01-02,20,Craven Cottage,Fulham,Arsenal,Martin Jol,Arsène Wenger,Lee Probert,25700,45,47,18:30,5,,Partly Cloudy,Clear,Partly Cloudy
+2012-01-02,20,Ewood Park,Blackburn Rovers,Stoke City,Steve Kean,Tony Pulis,Lee Mason,20615,45,45,16:00,5,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-01-02,20,Loftus Road,Queens Park Rangers,Norwich City,Neil Warnock,Paul Lambert,Neil Swarbrick,18033,46,45,16:00,7,,Few Clouds,Partly Cloudy,Few Clouds
+2012-01-02,20,Villa Park,Aston Villa,Swansea City,Alex McLeish,Brendan Rodgers,Anthony Taylor,35642,45,46,16:00,5,,Partly Cloudy,Clear,Clear
+2012-01-03,20,White Hart Lane,Tottenham Hotspur,West Bromwich Albion,Harry Redknapp,Roy Hodgson,Mark Halsey,36062,45,48,20:45,6,,Clear,Clear,Clear
+2012-01-03,20,Etihad Stadium,Manchester City,Liverpool,Roberto Mancini,Kenny Dalglish,Michael Jones,47131,45,45,21:00,5,,Rain,Rain,Few Clouds
+2012-01-03,20,DW Stadium,Wigan Athletic,Sunderland,Roberto Martínez,Martin O'Neill,Michael Dean,15871,51,45,20:45,5,,Rain,Rain,Partly Cloudy and Windy
+2012-01-04,20,Sports Direct Arena,Newcastle United,Manchester United,Alan Pardew,Alex Ferguson,Howard Webb,52599,45,45,21:00,8,,Mostly Cloudy,Rain,Rain
+2012-01-04,20,Goodison Park,Everton,Bolton Wanderers,David Moyes,Owen Coyle,Philip Dowd,29561,45,47,21:00,10,,Partly Cloudy and Windy,Partly Cloudy and Windy,Mostly Cloudy and Windy
+2012-01-14,21,Stamford Bridge,Chelsea,Sunderland,André Villas-Boas,Martin O'Neill,Philip Dowd,41696,46,45,16:00,4.4,,Clear,Clear,Clear
+2012-01-14,21,White Hart Lane,Tottenham Hotspur,Wolverhampton Wanderers,Harry Redknapp,Mick McCarthy,Michael Jones,36194,45,45,16:00,4,,Clear,Clear,Clear
+2012-01-14,21,Old Trafford,Manchester United,Bolton Wanderers,Alex Ferguson,Owen Coyle,Peter Walton,75444,47,45,16:00,3,,Clear,Clear,Clear
+2012-01-14,21,Anfield,Liverpool,Stoke City,Kenny Dalglish,Tony Pulis,Howard Webb,44691,45,48,16:00,4,,Clear,Clear,Clear
+2012-01-14,21,The Hawthorns,West Bromwich Albion,Norwich City,Roy Hodgson,Paul Lambert,Michael Dean,22474,45,45,16:00,3,,Clear,Clear,Clear
+2012-01-14,21,Ewood Park,Blackburn Rovers,Fulham,Steve Kean,Martin Jol,Anthony Taylor,18003,49,45,16:00,3,,Clear,Clear,Clear
+2012-01-14,21,Villa Park,Aston Villa,Everton,Alex McLeish,David Moyes,Mark Clattenburg,31853,45,45,16:00,3,,Clear,Clear,Clear
+2012-01-15,21,Sports Direct Arena,Newcastle United,Queens Park Rangers,Alan Pardew,Mark Hughes,Christopher Foy,49865,45,45,14:30,2,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-01-15,21,Liberty Stadium,Swansea City,Arsenal,Brendan Rodgers,Arsène Wenger,Michael Oliver,20409,45,48,17:00,5,,Partly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-01-16,21,DW Stadium,Wigan Athletic,Manchester City,Roberto Martínez,Roberto Mancini,Martin Atkinson,16026,45,45,21:00,0,,Clear,Clear,Clear
+2012-01-21,22,Craven Cottage,Fulham,Newcastle United,Martin Jol,Alan Pardew,Lee Mason,25692,46,46,16:00,10,,Few Clouds,Few Clouds,Mostly Cloudy
+2012-01-21,22,Goodison Park,Everton,Blackburn Rovers,David Moyes,Steve Kean,Mark Halsey,32464,45,45,16:00,7,,Few Clouds,Few Clouds,Few Clouds
+2012-01-21,22,Stadium of Light,Sunderland,Swansea City,Martin O'Neill,Brendan Rodgers,Christopher Foy,36904,45,45,16:00,6,,Partly Cloudy and Windy,Partly Cloudy and Windy,Few Clouds
+2012-01-21,22,Carrow Road,Norwich City,Chelsea,Paul Lambert,André Villas-Boas,Mark Clattenburg,26792,45,45,13:45,9,,Partly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-01-21,22,Molineux Stadium,Wolverhampton Wanderers,Aston Villa,Mick McCarthy,Alex McLeish,Michael Oliver,27084,45,45,16:00,8,,Mostly Cloudy,Few Clouds,Rain
+2012-01-21,22,Reebok Stadium,Bolton Wanderers,Liverpool,Owen Coyle,Kenny Dalglish,Kevin Friend,26854,45,47,18:30,7,,Partly Cloudy and Windy,Partly Cloudy and Windy,Clear and Windy
+2012-01-21,22,Loftus Road,Queens Park Rangers,Wigan Athletic,Neil Warnock,Roberto Martínez,Jonathan Moss,16002,45,45,16:00,10,,Mostly Cloudy and Windy,Partly Cloudy and Windy,Mostly Cloudy
+2012-01-21,22,Britannia Stadium,Stoke City,West Bromwich Albion,Tony Pulis,Roy Hodgson,Anthony Taylor,26865,45,47,16:00,7,,Mostly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-01-22,22,Emirates Stadium,Arsenal,Manchester United,Arsène Wenger,Alex Ferguson,Michael Dean,60093,46,51,17:00,10,,Few Clouds,Mostly Cloudy,Few Clouds
+2012-01-22,22,Etihad Stadium,Manchester City,Tottenham Hotspur,Roberto Mancini,Harry Redknapp,Howard Webb,47422,45,50,14:30,7,,Light Rain,Few Clouds,Few Clouds
+2012-01-31,23,Molineux Stadium,Wolverhampton Wanderers,Liverpool,Mick McCarthy,Kenny Dalglish,Anthony Taylor,27447,45,45,20:45,1,,Clear,Clear,Clear
+2012-01-31,23,Goodison Park,Everton,Manchester City,David Moyes,Roberto Mancini,Peter Walton,29856,45,45,21:00,0,,Mostly Cloudy,Partly Cloudy,Clear
+2012-01-31,23,White Hart Lane,Tottenham Hotspur,Wigan Athletic,Harry Redknapp,Roberto Martínez,Lee Probert,35801,45,49,20:45,1,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-01-31,23,Old Trafford,Manchester United,Stoke City,Alex Ferguson,Tony Pulis,Michael Jones,74719,45,45,21:00,0,,Partly Cloudy,Clear,Clear
+2012-01-31,23,Liberty Stadium,Swansea City,Chelsea,Brendan Rodgers,André Villas-Boas,Kevin Friend,20526,46,48,20:45,1,,Mostly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-02-01,23,Craven Cottage,Fulham,West Bromwich Albion,Martin Jol,Roy Hodgson,Mark Halsey,27689,45,45,21:00,-1,,Clear,Clear,Clear
+2012-02-01,23,Stadium of Light,Sunderland,Norwich City,Martin O'Neill,Paul Lambert,Lee Mason,34476,45,45,21:00,2,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-01,23,Ewood Park,Blackburn Rovers,Newcastle United,Steve Kean,Alan Pardew,Philip Dowd,20817,45,47,21:00,-2,,Clear,Clear,Clear
+2012-02-01,23,Reebok Stadium,Bolton Wanderers,Arsenal,Owen Coyle,Arsène Wenger,Christopher Foy,24371,45,45,21:00,-2,,Clear,Clear,Clear
+2012-02-01,23,Villa Park,Aston Villa,Queens Park Rangers,Alex McLeish,Mark Hughes,Neil Swarbrick,32063,45,45,20:45,-2,,Clear,Partly Cloudy,Few Clouds
+2012-02-04,24,Emirates Stadium,Arsenal,Blackburn Rovers,Arsène Wenger,Steve Kean,Andre Marriner,59634,45,48,14:00,1,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-04,24,Etihad Stadium,Manchester City,Fulham,Roberto Mancini,Martin Jol,Michael Dean,46963,45,45,18:30,0,,Light Snow,Heavy Snow,Light Snow
+2012-02-04,24,Carrow Road,Norwich City,Bolton Wanderers,Paul Lambert,Owen Coyle,Lee Probert,26358,45,45,16:00,-1,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-04,24,The Hawthorns,West Bromwich Albion,Swansea City,Roy Hodgson,Brendan Rodgers,Jonathan Moss,24274,45,45,16:00,-2,,Heavy Snow,Heavy Snow,Heavy Snow
+2012-02-04,24,Loftus Road,Queens Park Rangers,Wolverhampton Wanderers,Mark Hughes,Mick McCarthy,Mark Clattenburg,17351,45,45,16:00,1,,Mostly Cloudy,Mostly Cloudy,Light Snow
+2012-02-04,24,DW Stadium,Wigan Athletic,Everton,Roberto Martínez,David Moyes,Anthony Taylor,18340,45,45,16:00,-1,,Light Rain,Light Rain,Rain
+2012-02-04,24,Britannia Stadium,Stoke City,Sunderland,Tony Pulis,Martin O'Neill,Martin Atkinson,27717,45,45,16:00,-1,,Light Rain,Light Rain,Rain
+2012-02-05,24,Stamford Bridge,Chelsea,Manchester United,André Villas-Boas,Alex Ferguson,Howard Webb,41668,45,45,17:00,2,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-05,24,Sports Direct Arena,Newcastle United,Aston Villa,Alan Pardew,Alex McLeish,Mark Halsey,48596,50,45,14:30,5,,Clear,Clear,Partly Cloudy
+2012-02-06,24,Anfield,Liverpool,Tottenham Hotspur,Kenny Dalglish,Harry Redknapp,Michael Oliver,44461,45,45,21:00,1,,Fog/Mist,Fog/Mist,Fog/Mist
+2012-02-11,25,White Hart Lane,Tottenham Hotspur,Newcastle United,Harry Redknapp,Alan Pardew,Andre Marriner,36176,45,45,18:30,0,,Fog/Mist,Fog/Mist,Fog/Mist
+2012-02-11,25,Old Trafford,Manchester United,Liverpool,Alex Ferguson,Kenny Dalglish,Philip Dowd,74844,45,45,13:45,1,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-11,25,Craven Cottage,Fulham,Stoke City,Martin Jol,Tony Pulis,Christopher Foy,23555,45,45,16:00,2,,Fog/Mist,Fog/Mist,Fog/Mist
+2012-02-11,25,Goodison Park,Everton,Chelsea,David Moyes,André Villas-Boas,Michael Jones,33924,45,48,16:00,2,,Overcast,Overcast,Overcast
+2012-02-11,25,Stadium of Light,Sunderland,Arsenal,Martin O'Neill,Arsène Wenger,Neil Swarbrick,40312,45,46,16:00,4,,Partly Cloudy,Partly Cloudy,Few Clouds
+2012-02-11,25,Liberty Stadium,Swansea City,Norwich City,Brendan Rodgers,Paul Lambert,Martin Atkinson,19927,45,45,16:00,4,,Mostly Cloudy,Partly Cloudy,Overcast
+2012-02-11,25,Reebok Stadium,Bolton Wanderers,Wigan Athletic,Owen Coyle,Roberto Martínez,Howard Webb,23450,46,49,16:00,2,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-11,25,Ewood Park,Blackburn Rovers,Queens Park Rangers,Steve Kean,Mark Hughes,Michael Dean,20052,50,49,16:00,2,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-12,25,Molineux Stadium,Wolverhampton Wanderers,West Bromwich Albion,Mick McCarthy,Roy Hodgson,Lee Mason,27131,46,45,14:30,7,,Partly Cloudy,Partly Cloudy,Few Clouds
+2012-02-12,25,Villa Park,Aston Villa,Manchester City,Alex McLeish,Roberto Mancini,Michael Oliver,35312,45,47,17:00,5,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-25,26,Stamford Bridge,Chelsea,Bolton Wanderers,André Villas-Boas,Owen Coyle,Michael Oliver,40999,45,45,16:00,11,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-02-25,26,Sports Direct Arena,Newcastle United,Wolverhampton Wanderers,Alan Pardew,Terry Connor,Peter Walton,52287,45,47,16:00,7,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-02-25,26,Etihad Stadium,Manchester City,Blackburn Rovers,Roberto Mancini,Steve Kean,Michael Jones,46782,45,45,18:30,7,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-02-25,26,The Hawthorns,West Bromwich Albion,Sunderland,Roy Hodgson,Martin O'Neill,Christopher Foy,25311,45,46,16:00,10,,Clear and Windy,Clear,Clear
+2012-02-25,26,Loftus Road,Queens Park Rangers,Fulham,Mark Hughes,Martin Jol,Philip Dowd,18015,45,45,16:00,11,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-02-25,26,DW Stadium,Wigan Athletic,Aston Villa,Roberto Martínez,Alex McLeish,Kevin Friend,20601,45,45,16:00,8,,Few Clouds,Mostly Cloudy,Mostly Cloudy
+2012-02-26,26,Emirates Stadium,Arsenal,Tottenham Hotspur,Arsène Wenger,Harry Redknapp,Michael Dean,60106,45,45,14:30,13,,Partly Cloudy,Few Clouds,Few Clouds
+2012-02-26,26,Carrow Road,Norwich City,Manchester United,Paul Lambert,Alex Ferguson,Andre Marriner,26811,45,48,14:30,12,,Few Clouds,Few Clouds,Few Clouds
+2012-03-13,26,Anfield,Liverpool,Everton,Kenny Dalglish,David Moyes,Philip Dowd,44921,45,48,21:00,8,,Mostly Cloudy,Mostly Cloudy,Overcast
+2012-03-03,27,Etihad Stadium,Manchester City,Bolton Wanderers,Roberto Mancini,Owen Coyle,Mark Clattenburg,47219,45,45,16:00,11,,Partly Cloudy,Light Rain,Mostly Cloudy
+2012-03-03,27,Anfield,Liverpool,Arsenal,Kenny Dalglish,Arsène Wenger,Mark Halsey,44922,45,47,13:45,11,,Partly Cloudy,Partly Cloudy,Light Rain
+2012-03-03,27,The Hawthorns,West Bromwich Albion,Chelsea,Roy Hodgson,André Villas-Boas,Philip Dowd,24838,45,49,16:00,12,,Partly Cloudy and Windy,Partly Cloudy and Windy,Mostly Cloudy
+2012-03-03,27,Ewood Park,Blackburn Rovers,Aston Villa,Steve Kean,Alex McLeish,Howard Webb,20717,45,46,16:00,11,,Partly Cloudy and Windy,Light Rain,Mostly Cloudy
+2012-03-03,27,Loftus Road,Queens Park Rangers,Everton,Mark Hughes,David Moyes,Kevin Friend,18033,45,49,16:00,14,,Partly Cloudy and Windy,Partly Cloudy,Rain
+2012-03-03,27,DW Stadium,Wigan Athletic,Swansea City,Roberto Martínez,Brendan Rodgers,Andre Marriner,19001,47,45,16:00,11,,Partly Cloudy and Windy,Light Rain,Mostly Cloudy
+2012-03-03,27,Britannia Stadium,Stoke City,Norwich City,Tony Pulis,Paul Lambert,Michael Oliver,27483,45,48,16:00,10,,Partly Cloudy and Windy,Light Rain,Mostly Cloudy
+2012-03-04,27,Sports Direct Arena,Newcastle United,Sunderland,Alan Pardew,Martin O'Neill,Michael Dean,52388,45,51,13:00,3,,Light Rain,Light Rain,Light Rain
+2012-03-04,27,White Hart Lane,Tottenham Hotspur,Manchester United,Harry Redknapp,Alex Ferguson,Martin Atkinson,36034,45,45,17:10,5,,Few Clouds,Light Rain,Few Clouds
+2012-03-04,27,Craven Cottage,Fulham,Wolverhampton Wanderers,Martin Jol,Terry Connor,Michael Jones,24034,45,45,15:05,3,,Light Rain,Light Rain,Light Rain
+2012-03-10,28,Goodison Park,Everton,Tottenham Hotspur,David Moyes,Harry Redknapp,Mark Halsey,34992,45,50,18:30,11,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-03-10,28,Stamford Bridge,Chelsea,Stoke City,Roberto Di Matteo,Tony Pulis,Andre Marriner,40945,45,45,16:00,15,,Mostly Cloudy,Few Clouds,Partly Cloudy
+2012-03-10,28,Molineux Stadium,Wolverhampton Wanderers,Blackburn Rovers,Terry Connor,Steve Kean,Christopher Foy,26121,45,45,16:00,16,,Partly Cloudy and Windy,Partly Cloudy,Partly Cloudy
+2012-03-10,28,Stadium of Light,Sunderland,Liverpool,Martin O'Neill,Kenny Dalglish,Anthony Taylor,41661,45,45,16:00,11,,Mostly Cloudy and Windy,Partly Cloudy,Partly Cloudy
+2012-03-10,28,Reebok Stadium,Bolton Wanderers,Queens Park Rangers,Owen Coyle,Mark Hughes,Martin Atkinson,21551,45,45,13:45,12,,Mostly Cloudy,Mostly Cloudy and Windy,Mostly Cloudy
+2012-03-10,28,Villa Park,Aston Villa,Fulham,Alex McLeish,Martin Jol,Jonathan Moss,32372,45,48,16:00,14,,Few Clouds,Mostly Cloudy,Mostly Cloudy
+2012-03-11,28,Old Trafford,Manchester United,West Bromwich Albion,Alex Ferguson,Roy Hodgson,Lee Probert,75598,45,45,15:00,12,,Mostly Cloudy,Few Clouds,Mostly Cloudy
+2012-03-11,28,Carrow Road,Norwich City,Wigan Athletic,Paul Lambert,Roberto Martínez,Kevin Friend,26653,45,50,17:00,14,,Clear,Clear,Clear
+2012-03-11,28,Liberty Stadium,Swansea City,Manchester City,Brendan Rodgers,Roberto Mancini,Lee Mason,20510,45,45,15:00,11,,Mostly Cloudy,Mostly Cloudy and Windy,Mostly Cloudy
+2012-03-12,28,Emirates Stadium,Arsenal,Newcastle United,Arsène Wenger,Alan Pardew,Howard Webb,60095,45,52,21:00,7,,Fog/Mist,Partly Cloudy,Mostly Cloudy
+2012-03-17,29,Craven Cottage,Fulham,Swansea City,Martin Jol,Brendan Rodgers,Mark Halsey,25690,45,47,16:00,10,,Light Rain,Light Rain,Rain
+2012-03-17,29,DW Stadium,Wigan Athletic,West Bromwich Albion,Roberto Martínez,Roy Hodgson,Michael Oliver,21379,45,45,16:00,8,,Few Clouds,Few Clouds,Partly Cloudy
+2012-03-18,29,Sports Direct Arena,Newcastle United,Norwich City,Alan Pardew,Paul Lambert,Philip Dowd,47833,45,48,17:00,8,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-03-18,29,Molineux Stadium,Wolverhampton Wanderers,Manchester United,Terry Connor,Alex Ferguson,Anthony Taylor,27494,46,45,14:30,9,,Few Clouds,Few Clouds,Partly Cloudy
+2012-03-20,29,Ewood Park,Blackburn Rovers,Sunderland,Steve Kean,Martin O'Neill,Martin Atkinson,20056,45,45,21:00,9,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-03-21,29,Goodison Park,Everton,Arsenal,David Moyes,Arsène Wenger,Lee Mason,30330,45,45,21:00,8,,Few Clouds,Partly Cloudy,Mostly Cloudy
+2012-03-21,29,White Hart Lane,Tottenham Hotspur,Stoke City,Harry Redknapp,Tony Pulis,Michael Jones,35172,45,48,20:45,9,,Clear,Clear,Clear
+2012-03-21,29,Etihad Stadium,Manchester City,Chelsea,Roberto Mancini,Roberto Di Matteo,Michael Dean,46324,45,45,20:45,5,,Clear,Clear,Clear
+2012-03-21,29,Loftus Road,Queens Park Rangers,Liverpool,Mark Hughes,Kenny Dalglish,Howard Webb,18033,45,46,21:00,10,,Mostly Cloudy,Few Clouds,Partly Cloudy
+2012-04-24,29,Villa Park,Aston Villa,Bolton Wanderers,Alex McLeish,Owen Coyle,Christopher Foy,32263,45,46,20:45,7,,Few Clouds,Clear,Partly Cloudy
+2012-03-24,30,Stamford Bridge,Chelsea,Tottenham Hotspur,Roberto Di Matteo,Harry Redknapp,Martin Atkinson,41830,45,45,13:45,19,,Clear,Clear,Clear
+2012-03-24,30,Emirates Stadium,Arsenal,Aston Villa,Arsène Wenger,Alex McLeish,Philip Dowd,60108,45,48,16:00,19,,Clear,Clear,Clear
+2012-03-24,30,Anfield,Liverpool,Wigan Athletic,Kenny Dalglish,Roberto Martínez,Lee Mason,44431,45,45,16:00,18,,Fog/Mist,Fog/Mist,Fog/Mist
+2012-03-24,30,Britannia Stadium,Stoke City,Manchester City,Tony Pulis,Roberto Mancini,Howard Webb,27535,45,50,18:30,13,,Fog/Mist,Fog/Mist,Fog/Mist
+2012-03-24,30,Carrow Road,Norwich City,Wolverhampton Wanderers,Paul Lambert,Terry Connor,Mark Clattenburg,26752,46,45,16:00,13,,Clear,Clear,Clear
+2012-03-24,30,Liberty Stadium,Swansea City,Everton,Brendan Rodgers,David Moyes,Neil Swarbrick,20509,46,45,16:00,19,,Clear,Clear,Clear
+2012-03-24,30,Reebok Stadium,Bolton Wanderers,Blackburn Rovers,Owen Coyle,Steve Kean,Andre Marriner,26901,45,49,16:00,18,,Fog/Mist,Fog/Mist,Fog/Mist
+2012-03-24,30,Stadium of Light,Sunderland,Queens Park Rangers,Martin O'Neill,Mark Hughes,Michael Jones,37128,48,45,16:00,15,,Fog/Mist,Fog/Mist,Fog/Mist
+2012-03-25,30,The Hawthorns,West Bromwich Albion,Newcastle United,Roy Hodgson,Alan Pardew,Christopher Foy,25049,45,45,17:00,16,,Clear,Clear,Clear
+2012-03-26,30,Old Trafford,Manchester United,Fulham,Alex Ferguson,Martin Jol,Michael Oliver,75570,45,45,21:00,13,,Clear,Clear,Clear
+2012-03-31,31,Etihad Stadium,Manchester City,Sunderland,Roberto Mancini,Martin O'Neill,Philip Dowd,47007,49,48,16:00,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-03-31,31,Craven Cottage,Fulham,Norwich City,Martin Jol,Paul Lambert,Anthony Taylor,25700,45,45,16:00,11,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-03-31,31,Goodison Park,Everton,West Bromwich Albion,David Moyes,Roy Hodgson,Peter Walton,32051,45,45,16:00,11,,Partly Cloudy,Partly Cloudy,Mostly Cloudy
+2012-03-31,31,Molineux Stadium,Wolverhampton Wanderers,Bolton Wanderers,Mick McCarthy,Owen Coyle,Jonathan Moss,25125,45,49,16:00,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-03-31,31,Loftus Road,Queens Park Rangers,Arsenal,Mark Hughes,Arsène Wenger,Michael Dean,18033,45,49,16:00,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-03-31,31,Villa Park,Aston Villa,Chelsea,Alex McLeish,Roberto Di Matteo,Lee Mason,34740,45,47,16:00,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-03-31,31,DW Stadium,Wigan Athletic,Stoke City,Roberto Martínez,Tony Pulis,Mark Clattenburg,19786,45,48,16:00,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-04-01,31,Sports Direct Arena,Newcastle United,Liverpool,Alan Pardew,Kenny Dalglish,Martin Atkinson,52363,45,45,14:30,12,,Partly Cloudy,Few Clouds,Few Clouds
+2012-04-01,31,White Hart Lane,Tottenham Hotspur,Swansea City,Harry Redknapp,Brendan Rodgers,Andre Marriner,36174,45,47,17:00,13,,Clear,Clear,Clear
+2012-04-02,31,Ewood Park,Blackburn Rovers,Manchester United,Steve Kean,Alex Ferguson,Howard Webb,26532,45,45,21:00,7,,Partly Cloudy,Few Clouds,Mostly Cloudy
+2012-04-06,32,Liberty Stadium,Swansea City,Newcastle United,Brendan Rodgers,Alan Pardew,Howard Webb,19874,45,45,17:30,10,,Mostly Cloudy,Mostly Cloudy,Partly Cloudy
+2012-04-07,32,Stamford Bridge,Chelsea,Wigan Athletic,Roberto Di Matteo,Roberto Martínez,Michael Jones,40651,45,48,16:00,10,,Mostly Cloudy,Few Clouds,Mostly Cloudy
+2012-04-07,32,Anfield,Liverpool,Aston Villa,Kenny Dalglish,Alex McLeish,Michael Oliver,44321,45,45,16:00,10,,Mostly Cloudy,Few Clouds,Few Clouds
+2012-04-07,32,Stadium of Light,Sunderland,Tottenham Hotspur,Martin O'Neill,Harry Redknapp,Christopher Foy,39335,45,48,13:45,8,,Few Clouds,Few Clouds,Few Clouds
+2012-04-07,32,Carrow Road,Norwich City,Everton,Paul Lambert,David Moyes,Andre Marriner,26554,45,47,16:00,7,,Partly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-04-07,32,The Hawthorns,West Bromwich Albion,Blackburn Rovers,Roy Hodgson,Steve Kean,Lee Probert,23414,45,46,16:00,8,,Mostly Cloudy,Partly Cloudy,Mostly Cloudy
+2012-04-07,32,Reebok Stadium,Bolton Wanderers,Fulham,Owen Coyle,Martin Jol,Michael Dean,21939,45,48,16:00,10,,Mostly Cloudy,Mostly Cloudy,Few Clouds
+2012-04-07,32,Britannia Stadium,Stoke City,Wolverhampton Wanderers,Tony Pulis,Terry Connor,Mark Halsey,27005,45,46,18:30,10,,Few Clouds,Clear,Clear
+2012-04-08,32,Emirates Stadium,Arsenal,Manchester City,Arsène Wenger,Roberto Mancini,Martin Atkinson,60096,45,50,17:00,14,,Mostly Cloudy,Mostly Cloudy,Partly Cloudy
+2012-04-08,32,Old Trafford,Manchester United,Queens Park Rangers,Alex Ferguson,Mark Hughes,Lee Mason,75505,45,45,14:30,10,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-04-09,33,Sports Direct Arena,Newcastle United,Bolton Wanderers,Alan Pardew,Owen Coyle,Michael Jones,52264,45,45,16:00,9,,Rain,Rain,Light Rain
+2012-04-09,33,White Hart Lane,Tottenham Hotspur,Norwich City,Harry Redknapp,Paul Lambert,Michael Oliver,36126,46,45,16:00,11,,Light Rain,Light Rain,Light Rain
+2012-04-09,33,Craven Cottage,Fulham,Chelsea,Martin Jol,Roberto Di Matteo,Mark Clattenburg,25697,45,45,21:00,10,,Light Rain,Light Rain,Light Rain
+2012-04-09,33,Goodison Park,Everton,Sunderland,David Moyes,Martin O'Neill,Kevin Friend,32249,45,45,16:00,10,,Light Rain,Few Clouds,Few Clouds
+2012-04-09,33,Villa Park,Aston Villa,Stoke City,Alex McLeish,Tony Pulis,Michael Dean,30100,45,45,18:30,10,,Light Rain,Light Rain,Light Rain
+2012-04-10,33,Ewood Park,Blackburn Rovers,Liverpool,Steve Kean,Kenny Dalglish,Anthony Taylor,23571,46,46,21:00,5,,Clear,Clear,Clear
+2012-04-11,33,Etihad Stadium,Manchester City,West Bromwich Albion,Roberto Mancini,Roy Hodgson,Kevin Friend,46746,45,45,20:45,7,,Light Rain,Few Clouds,Few Clouds
+2012-04-11,33,Molineux Stadium,Wolverhampton Wanderers,Arsenal,Terry Connor,Arsène Wenger,Neil Swarbrick,25815,45,45,20:45,6,,Partly Cloudy,Partly Cloudy,Clear
+2012-04-11,33,Loftus Road,Queens Park Rangers,Swansea City,Mark Hughes,Brendan Rodgers,Lee Probert,17557,46,45,21:00,9,,Few Clouds,Rain,Few Clouds
+2012-04-11,33,DW Stadium,Wigan Athletic,Manchester United,Roberto Martínez,Alex Ferguson,Philip Dowd,18115,45,45,20:45,7,,Light Rain,Few Clouds,Mostly Cloudy
+2012-05-01,34,Britannia Stadium,Stoke City,Everton,Tony Pulis,David Moyes,Anthony Taylor,26500,45,49,20:45,12,,Clear,Clear,Clear
+2012-04-14,34,Liberty Stadium,Swansea City,Blackburn Rovers,Brendan Rodgers,Steve Kean,Mark Clattenburg,18985,45,46,16:00,8,,Mostly Cloudy,Mostly Cloudy,Mostly Cloudy
+2012-04-14,34,Carrow Road,Norwich City,Manchester City,Paul Lambert,Roberto Mancini,Christopher Foy,26812,45,48,13:45,9,,Light Rain,Partly Cloudy,Partly Cloudy and Windy
+2012-04-14,34,The Hawthorns,West Bromwich Albion,Queens Park Rangers,Roy Hodgson,Mark Hughes,Jonathan Moss,25521,45,45,16:00,10,,Partly Cloudy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-04-14,34,Stadium of Light,Sunderland,Wolverhampton Wanderers,Martin O'Neill,Terry Connor,Michael Jones,37476,45,45,16:00,7,,Partly Cloudy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-04-15,34,Old Trafford,Manchester United,Aston Villa,Alex Ferguson,Alex McLeish,Mark Halsey,75183,45,48,17:00,9,,Clear,Clear,Partly Cloudy
+2012-04-16,34,Emirates Stadium,Arsenal,Wigan Athletic,Arsène Wenger,Roberto Martínez,Andre Marriner,60060,45,50,21:00,7,,Clear,Clear,Clear
+2012-05-01,34,Anfield,Liverpool,Fulham,Kenny Dalglish,Martin Jol,Lee Probert,40106,45,45,20:45,9,,Overcast,Overcast,Overcast
+2012-05-02,34,Stamford Bridge,Chelsea,Newcastle United,Roberto Di Matteo,Alan Pardew,Mark Halsey,41559,45,49,20:45,10,,Partly Cloudy,Light Rain,Light Rain
+2012-05-02,34,Reebok Stadium,Bolton Wanderers,Tottenham Hotspur,Owen Coyle,Harry Redknapp,Michael Dean,22349,45,45,21:00,10,,Clear,Clear,Clear
+2012-04-21,35,Sports Direct Arena,Newcastle United,Stoke City,Alan Pardew,Tony Pulis,Andre Marriner,52162,45,45,16:00,9,,Light Rain,Partly Cloudy,Rain
+2012-04-21,35,Emirates Stadium,Arsenal,Chelsea,Arsène Wenger,Roberto Di Matteo,Michael Dean,60111,45,45,13:45,11,,Mostly Cloudy,Few Clouds,Few Clouds
+2012-04-21,35,Craven Cottage,Fulham,Wigan Athletic,Martin Jol,Roberto Martínez,Lee Mason,25689,45,45,16:00,13,,Few Clouds,Few Clouds,Few Clouds
+2012-04-21,35,Ewood Park,Blackburn Rovers,Norwich City,Steve Kean,Paul Lambert,Kevin Friend,23218,45,45,16:00,10,,Light Rain,Few Clouds,Partly Cloudy
+2012-04-21,35,Reebok Stadium,Bolton Wanderers,Swansea City,Owen Coyle,Brendan Rodgers,Philip Dowd,25401,45,50,16:00,10,,Few Clouds,Few Clouds,Partly Cloudy
+2012-04-21,35,Loftus Road,Queens Park Rangers,Tottenham Hotspur,Mark Hughes,Harry Redknapp,Mark Clattenburg,18021,45,45,18:30,11,,Partly Cloudy and Windy,Light Rain,Few Clouds
+2012-04-21,35,Villa Park,Aston Villa,Sunderland,Alex McLeish,Martin O'Neill,Anthony Taylor,32577,45,47,16:00,10,,Few Clouds,Partly Cloudy and Windy,Mostly Cloudy
+2012-04-22,35,Old Trafford,Manchester United,Everton,Alex Ferguson,David Moyes,Michael Jones,75522,48,45,13:30,9,,Light Rain,Few Clouds,Few Clouds
+2012-04-22,35,Anfield,Liverpool,West Bromwich Albion,Kenny Dalglish,Roy Hodgson,Neil Swarbrick,43660,45,49,17:00,12,,Few Clouds,Partly Cloudy,Partly Cloudy
+2012-04-22,35,Molineux Stadium,Wolverhampton Wanderers,Manchester City,Terry Connor,Roberto Mancini,Lee Probert,24576,45,45,17:00,12,,Partly Cloudy,Light Rain,Few Clouds
+2012-04-28,36,Goodison Park,Everton,Fulham,David Moyes,Martin Jol,Philip Dowd,31885,45,45,16:00,10,,Mostly Cloudy,Mostly Cloudy,Few Clouds
+2012-04-28,36,Carrow Road,Norwich City,Liverpool,Paul Lambert,Kenny Dalglish,Mark Halsey,26819,47,45,18:30,6,,Rain,Rain,Rain
+2012-04-28,36,Liberty Stadium,Swansea City,Wolverhampton Wanderers,Brendan Rodgers,Terry Connor,Jonathan Moss,19408,45,45,16:00,10,,Mostly Cloudy and Windy,Mostly Cloudy and Windy,Mostly Cloudy and Windy
+2012-04-28,36,The Hawthorns,West Bromwich Albion,Aston Villa,Roy Hodgson,Alex McLeish,Mark Clattenburg,25984,45,45,16:00,8,,Mostly Cloudy and Windy,Mostly Cloudy and Windy,Mostly Cloudy and Windy
+2012-04-28,36,DW Stadium,Wigan Athletic,Newcastle United,Roberto Martínez,Alan Pardew,Michael Dean,22187,47,45,16:00,10,,Mostly Cloudy and Windy,Mostly Cloudy,Mostly Cloudy
+2012-04-28,36,Britannia Stadium,Stoke City,Arsenal,Tony Pulis,Arsène Wenger,Christopher Foy,27502,45,45,16:00,10,,Mostly Cloudy and Windy,Mostly Cloudy and Windy,Mostly Cloudy and Windy
+2012-04-28,36,Stadium of Light,Sunderland,Bolton Wanderers,Martin O'Neill,Owen Coyle,Lee Probert,40768,45,45,16:00,8,,Partly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-04-29,36,Stamford Bridge,Chelsea,Queens Park Rangers,Roberto Di Matteo,Mark Hughes,Howard Webb,41675,45,45,14:30,11.1,,Mostly Cloudy,Few Clouds,Mostly Cloudy
+2012-04-29,36,White Hart Lane,Tottenham Hotspur,Blackburn Rovers,Harry Redknapp,Steve Kean,Michael Jones,35798,45,45,17:00,14,,Mostly Cloudy,Light Rain,Partly Cloudy
+2012-04-30,36,Etihad Stadium,Manchester City,Manchester United,Roberto Mancini,Alex Ferguson,Andre Marriner,47259,46,48,21:00,13,,Partly Cloudy,Clear,Clear
+2012-05-05,37,Emirates Stadium,Arsenal,Norwich City,Arsène Wenger,Paul Lambert,Anthony Taylor,60092,48,47,13:45,8,,Few Clouds,Few Clouds,Rain
+2012-05-06,37,Sports Direct Arena,Newcastle United,Manchester City,Alan Pardew,Roberto Mancini,Howard Webb,52389,45,45,14:30,9,,Mostly Cloudy,Partly Cloudy,Few Clouds
+2012-05-06,37,Molineux Stadium,Wolverhampton Wanderers,Everton,Terry Connor,David Moyes,Lee Mason,25466,45,45,15:00,12,,Few Clouds,Few Clouds,Partly Cloudy
+2012-05-06,37,Old Trafford,Manchester United,Swansea City,Alex Ferguson,Brendan Rodgers,Christopher Foy,75496,45,45,17:00,11,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-05-06,37,Craven Cottage,Fulham,Sunderland,Martin Jol,Martin O'Neill,Martin Atkinson,25683,45,45,15:00,9,,Partly Cloudy,Rain,Partly Cloudy
+2012-05-06,37,Reebok Stadium,Bolton Wanderers,West Bromwich Albion,Owen Coyle,Roy Hodgson,Kevin Friend,25662,45,45,15:00,10,,Partly Cloudy,Few Clouds,Partly Cloudy
+2012-05-06,37,Loftus Road,Queens Park Rangers,Stoke City,Mark Hughes,Tony Pulis,Andre Marriner,17319,45,45,15:00,9,,Partly Cloudy,Rain,Partly Cloudy
+2012-05-06,37,Villa Park,Aston Villa,Tottenham Hotspur,Alex McLeish,Harry Redknapp,Lee Probert,36008,45,51,15:00,10,,Few Clouds,Clear,Clear
+2012-05-07,37,Ewood Park,Blackburn Rovers,Wigan Athletic,Steve Kean,Roberto Martínez,Mark Clattenburg,26144,45,45,21:00,10,,Light Rain,Rain,Rain
+2012-05-08,37,Anfield,Liverpool,Chelsea,Kenny Dalglish,Roberto Di Matteo,Kevin Friend,40721,47,45,21:00,10,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-05-13,38,Goodison Park,Everton,Newcastle United,David Moyes,Alan Pardew,Andre Marriner,39517,49,50,16:00,15,,Clear,Clear,Clear
+2012-05-13,38,Stamford Bridge,Chelsea,Blackburn Rovers,Roberto Di Matteo,Steve Kean,Lee Mason,40742,45,45,16:00,16,,Clear,Clear,Mostly Cloudy
+2012-05-13,38,White Hart Lane,Tottenham Hotspur,Fulham,Harry Redknapp,Martin Jol,Philip Dowd,36256,45,45,16:00,16,,Clear,Clear,Clear
+2012-05-13,38,Etihad Stadium,Manchester City,Queens Park Rangers,Roberto Mancini,Mark Hughes,Michael Dean,48000,45,50,16:00,15,,Clear,Clear,Clear
+2012-05-13,38,Stadium of Light,Sunderland,Manchester United,Martin O'Neill,Alex Ferguson,Howard Webb,46452,45,45,16:00,10,,Partly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-05-13,38,Carrow Road,Norwich City,Aston Villa,Paul Lambert,Alex McLeish,Martin Atkinson,26803,45,45,16:00,16,,Partly Cloudy and Windy,Partly Cloudy and Windy,Partly Cloudy and Windy
+2012-05-13,38,Liberty Stadium,Swansea City,Liverpool,Brendan Rodgers,Kenny Dalglish,Mark Halsey,20605,47,45,16:00,13,,Partly Cloudy,Partly Cloudy,Partly Cloudy
+2012-05-13,38,The Hawthorns,West Bromwich Albion,Arsenal,Roy Hodgson,Arsène Wenger,Michael Jones,26358,45,45,16:00,16,,Clear and Windy,Partly Cloudy and Windy,Clear and Windy
+2012-05-13,38,DW Stadium,Wigan Athletic,Wolverhampton Wanderers,Roberto Martínez,Terry Connor,Michael Oliver,21986,45,45,16:00,15,,Clear and Windy,Clear and Windy,Clear and Windy
+2012-05-13,38,Britannia Stadium,Stoke City,Bolton Wanderers,Tony Pulis,Owen Coyle,Christopher Foy,27789,45,45,16:00,15,,Clear and Windy,Clear and Windy,Clear and Windy

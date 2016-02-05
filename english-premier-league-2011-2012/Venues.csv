@@ -1,0 +1,21 @@
+Venue Name,City,Region,Country,Timezone,Altitude,Latitude,Longitude,Config Date,Surface,Length,Width,Capacity,Seats
+Emirates Stadium,Holloway,Greater London,England,Europe/London,41,51.555000,-0.108611,2006-07-22,Desso GrassMaster,105,68,60361,60361
+Villa Park,Birmingham,West Midlands,England,Europe/London,138,52.509167,-1.884722,2001-11-11,Desso GrassMaster,105,68,42682,42682
+Ewood Park,Blackburn,Lancashire,England,Europe/London,91,53.728611,-2.489167,1994-08-01,Natural Grass,105,69,31367,31367
+Reebok Stadium,Bolton,Greater Manchester,England,Europe/London,115,53.580556,-2.535556,1997-09-01,Desso GrassMaster,105,68,28100,28100
+Stamford Bridge,Fulham,Greater London,England,Europe/London,12,51.481667,-0.191111,2001-08-01,Natural Grass,105,68,42449,42449
+Goodison Park,Liverpool,Merseyside,England,Europe/London,44,53.438875,-2.966354,1994-09-17,Natural Grass,100,68,40157,40157
+Craven Cottage,Fulham,Greater London,England,Europe/London,8,51.475000,-0.221667,2004-07-10,Desso GrassMaster,105,68,25700,25700
+Anfield,Liverpool,Merseyside,England,Europe/London,65,53.430819,-2.960828,1998-07-01,Desso GrassMaster,101,68,45276,45276
+Etihad Stadium,Manchester,Greater Manchester,England,Europe/London,60,53.483056,-2.200278,2003-08-10,Desso GrassMaster,105,68,47405,47405
+Old Trafford,Manchester,Greater Manchester,England,Europe/London,38,53.463056,-2.291389,2009-08-15,Natural Grass,105,68,75811,75811
+Sports Direct Arena,Newcastle upon Tyne,Northumberland,England,Europe/London,20,54.975556,-1.621667,2011-09-01,Natural Grass,105,68,52409,52409
+Carrow Road,Norwich,Norfolk,England,Europe/London,9,52.622128,1.308653,2010-08-01,Desso GrassMaster,105,68,27183,27183
+Loftus Road,Shepherd's Bush,Greater London,England,Europe/London,10,51.509167,-0.232222,1994-08-01,Desso GrassMaster,105,68,18439,18439
+Britannia Stadium,Stoke-on-Trent,Staffordshire,England,Europe/London,132,52.988333,-2.175556,2000-01-01,Natural Grass,100,64,27740,27740
+Stadium of Light,Sunderland,Tyne and Wear,England,Europe/London,30,54.914400,-1.388200,2005-07-10,Natural Grass,105,68,49000,49000
+White Hart Lane,Tottenham,Greater London,England,Europe/London,18,51.603333,-0.065833,1998-07-01,Desso GrassMaster,100,67,36230,36230
+The Hawthorns,West Bromwich,West Midlands,England,Europe/London,171,52.509167,-1.963889,2008-04-15,Desso GrassMaster,105,68,27877,27877
+DW Stadium,Wigan,Greater Manchester,England,Europe/London,25,53.547778,-2.653889,1999-08-07,Natural Grass,105,68,25133,25133
+Molineux Stadium,Wolverhampton,West Midlands,England,Europe/London,144,52.590278,-2.130278,2012-07-01,Natural Grass,100,64,27828,27828
+Liberty Stadium,Swansea,West Glamorgan,Wales,Europe/London,11,51.642200,-3.935100,2005-07-10,Desso GrassMaster,105,68,20520,20520
