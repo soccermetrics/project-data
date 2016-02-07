@@ -233,7 +233,32 @@ Opposition | Name of opposing team | String
 Opposition Id | Supplier ID of opposing team | Integer
 Venue | Locale of match from player's perspective (Home/Away) | String 
 Position Id | Supplier ID of player's position | Integer
-
+Assists | Total number of assists | Integer
+Goal Assist Corner | Assists directly from a corner kick| Integer
+Goal Assist Free Kick | Assists directly from a free kick | Integer
+Goal Assist Throw In | Assists directly from a throw-in | Integer
+Goal Assist Goal Kick | Assists directly from a goal kick | Integer
+Goal Assist Set Piece | Assists directly from a set-piece | Integer   
+Total Clearances | Total number of balls cleared from defensive areas | Integer
+Headed Clearances | Clearances made with the head | Integer
+Other Clearances | Clearances made with feet or body parts other than head | Integer
+Clearances Off the Line | Clearances made before ball crossed goal line | Integer
+Corners Taken incl short corners | Number of corners taken (including short corners) | Integer
+Short Corners | Number of short corners taken | Integer
+Successful Corners into Box | Corners into penalty area that found a teammate | Integer
+Unsuccessful Corners into Box | Corners into penalty area that did not find a teammate | Integer
+Successful Corners Left | Successful corner kicks that started from left side | Integer
+Unsuccessful Corners Left | Unsuccessful corner kicks that started from left side | Integer
+Successful Corners Right | Successful corner kicks that started from right side | Integer
+Unsuccessful Corners Right | Unsuccessful corner kicks that started from right side| Integer
+Successful Crosses Corners | Crossing passes from corners that found a teammate | Integer
+Unsuccessful Crosses Corners | Crossing passes from corners that did not find a teammate | Integer
+Successful Crosses Corners in the air | Successful crosses from corners that traveled through the air | Integer
+Unsuccessful Crosses Corners in the air | Unsuccessful crosses from corners that traveled through the air | Integer
+Successful Crosses Corners Left | Successful crosses from corners that started from left side | Integer
+Unsuccessful Crosses Corners Left | Unsuccessful crosses from corners that started from left side | Integer
+Successful Crosses Corners Right | Successful crosses from corners that started from right side | Integer
+Unsuccessful Crosses Corners Right | Unsuccessful crosses from corners that started from right side | Integer
 
 Sources:
 
