@@ -259,6 +259,45 @@ Successful Crosses Corners Left | Successful crosses from corners that started f
 Unsuccessful Crosses Corners Left | Unsuccessful crosses from corners that started from left side | Integer
 Successful Crosses Corners Right | Successful crosses from corners that started from right side | Integer
 Unsuccessful Crosses Corners Right | Unsuccessful crosses from corners that started from right side | Integer
+Blocks | Total number of blocked balls | Integer
+Interceptions | Total number of pass interceptions | Integer
+Recoveries | Number of balls recovered after initial loss of possession | Integer
+Corners Conceded | Number of ball touches by player that resulted in corner kick by opposition | Integer
+Total Fouls Conceded | Number of fouls committed by player | Integer
+Challenge Lost | Number of lost tackles, duels, or other ball challenges | Integer
+Handballs Conceded | Number of handball fouls committed by player | Integer
+Penalties Conceded | Number of fouls committed by player resulting in penalties | Integer
+Error leading to Goal | Number of errant actions that resulted in goal by opposing team | Integer
+Error leading to Attempt | Number of errant actions that resulted in shot (no goal) by opposing team | Integer
+Yellow Cards | Number of yellow cards received in match | Integer
+Red Cards | Number of red or yellow/red cards received in match | Integer
+Duels won | Total number of 50/50 balls or tackles won | Integer
+Duels lost | Total number of 50/50 balls or tackles lost | Integer
+Aerial Duels won | Total number of 50/50 headed balls won | Integer
+Aerial Duels lost | Total number of 50/50 headed balls lost | Integer
+Ground Duels won | Total number of ground challenges won (dribbles/tackles) | Integer
+Ground Duels lost | Total number of ground challenges lost | Integer
+Total Fouls Won | Total number of fouls won by a player in match | Integer
+Fouls Won in Danger Area inc pens | Total number of fouls won in area close to goal (not penalty) | Integer
+Foul Won Penalty | Total number of fouls won that earn a penalty kick | Integer
+Fouls Won not in danger area | Total number of fouls won in area far from goal | Integer
+Direct Free-kick On Target | Number of direct free kicks that entered the goal face | Integer
+Direct Free-kick Off Target | Number of direct free kicks that did not enter the goal face | Integer
+Goals Conceded Inside Box | Number of goals conceded that were taken inside penalty area | Integer
+Goals Conceded Outside Box | Number of goals conceded that were taken outside penalty area | Integer
+Clean Sheets | Did goalkeeper maintain a clean sheet (i.e. matches without a goal conceded)? | Boolean
+Saves Made from Inside Box | Number of saved shots that were taken inside penalty area | Integer
+Saves Made from Outside Box | Number of saved shots that were taken outside penalty area | Integer
+Saves from Penalty | Number of saved penalty shots | Integer
+Shots On Conceded Inside Box| Number of shots faced that were taken inside penalty area | Integer
+Shots On Conceded Outside Box | Number of shots faced that were taken outside penalty area | Integer
+Big Chances Faced | Number of shots allowed that represented a clear goalscoring chance | Integer
+Catches | Number of balls caught and held by goalkeeper | Integer
+Punches | Number of balls punched away by goalkeeper | Integer
+Drops | Number of balls allowed to fall to ground by goalkeeper | Integer
+Crosses not Claimed | Number of crosses that were not caught or punched by goalkeeper | Integer
+GK Successful Distribution | Number of passes by goalkeeper that are controlled by a teammate | Integer
+GK Unsuccessful Distribution | Number of passes by goalkeeper that are not controlled by a teammate | Integer
 
 Sources:
 
