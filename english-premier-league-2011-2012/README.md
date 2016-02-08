@@ -285,7 +285,7 @@ Direct Free-kick On Target | Number of direct free kicks that entered the goal f
 Direct Free-kick Off Target | Number of direct free kicks that did not enter the goal face | Integer
 Goals Conceded Inside Box | Number of goals conceded that were taken inside penalty area | Integer
 Goals Conceded Outside Box | Number of goals conceded that were taken outside penalty area | Integer
-Clean Sheets | Did goalkeeper maintain a clean sheet (i.e. matches without a goal conceded)? | Boolean
+Clean Sheets | Clean sheet indicator (i.e. no goal conceded); 0=no, 1=yes | Integer
 Saves Made from Inside Box | Number of saved shots that were taken inside penalty area | Integer
 Saves Made from Outside Box | Number of saved shots that were taken outside penalty area | Integer
 Saves from Penalty | Number of saved penalty shots | Integer
@@ -298,6 +298,23 @@ Drops | Number of balls allowed to fall to ground by goalkeeper | Integer
 Crosses not Claimed | Number of crosses that were not caught or punched by goalkeeper | Integer
 GK Successful Distribution | Number of passes by goalkeeper that are controlled by a teammate | Integer
 GK Unsuccessful Distribution | Number of passes by goalkeeper that are not controlled by a teammate | Integer
+Headed Goals | Goals scored by header | Integer
+Left Foot Goals | Goals scored with left foot | Integer
+Right Foot Goals | Goals scored with right foot | Integer
+Goals from Inside Box | Goals scored in penalty area | Integer
+Goals from Outside Box | Goals scored outside penalty area | Integer
+First Goal | Did player score the opening goal? 1=yes, 0=no | Integer
+Winning Goal | Did player score the winner? 1=yes, 0=no | Integer
+Goals from Direct Free Kick | Goals scored direct from free kick | Integer
+Goals Open Play | Goals scored from open play | Integer
+Goals from Corners | Goals scored as result of corner | Integer
+Goals from Throws | Goals scored as result of throw-in | Integer
+Goals from penalties | Goals scored by penalty | Integer
+Goals as a substitute | Goals scored as substitute | Integer
+Other Goals | Other goals scored | Integer
+Shots Cleared off Line Inside Area | Number of shots from inside penalty area that are cleared off goal line | Integer
+Shots Cleared off Line Outside Area | Number of shots from outside penalty area that are cleared off goal line | Integer
+Shots Cleared off Line | Total number of shots cleared off goal line | Integer
 
 Sources:
 
