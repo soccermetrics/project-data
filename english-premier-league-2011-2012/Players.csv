@@ -11,9 +11,9 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 28491,Oman,Ali,,Al-Habsi,,,,1981-12-30,Goalkeeper
 51938,England,Marc,,Albrighton,,,,1989-11-18,Right Winger
 43035,Paraguay,Antolín,,Alcaraz,Viveros,,,1982-07-30,Central Defender
-40555,Wales,Joseph,Michael,Allen,,,,1990-03-14,Midfielder
+40555,Wales,Joseph,Michael,Allen,,Joe Allen,,1990-03-14,Midfielder
 38530,Portugal,Luís,Carlos,Almeida,da Cunha,Nani,,1986-11-17,Left Winger
-82263,Spain,Marcos,,Alonso,Mendoza,,,1990-12-28,Left Full-back
+82263,Spain,Marcos,,Alonso,Mendoza,Marcos Alonso Mendoza,,1990-12-28,Left Full-back
 6240,Nigeria,Foluwashola,,Ameobi,,Shola Ameobi,,1981-10-12,Striker
 97612,England,Samuel,,Ameobi,,Sammy Ameobi,,1992-05-01,Striker
 51922,England,Ben,,Amos,,,,1990-04-10,Goalkeeper
@@ -180,7 +180,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 9089,England,Ben,,Foster,,,,1983-04-03,Goalkeeper
 17812,England,David,,Fox,,,,1983-12-13,Midfielder
 105086,Turkey,Kerim,,Frei,,,,1993-11-19,Midfielder
-1803,USA,Bradley,Howard,Friedel,,,,1971-05-18,Goalkeeper
+1803,USA,Bradley,Howard,Friedel,,Brad Friedel,,1971-05-18,Goalkeeper
 56861,England,Emmanuel,,Frimpong,,,,1992-01-10,Midfielder
 106603,England,Ezekiel,,Fryers,,,,1992-09-09,Defender
 11721,Jamaica,Ricardo,,Fuller,,,,1979-10-31,Striker
@@ -212,7 +212,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 52876,Brazil,Sandro,Raniere,Guimarães,Cordeiro,Sandro,,1989-03-15,Midfielder
 37639,England,Danny,,Guthrie,,,,1987-04-18,Midfielder
 21060,Argentina,Jonás,Manuel,Gutiérrez,,,,1983-07-05,Midfielder
-41705,USA,Bradley,Edwin,Guzan,,,,1984-09-09,Goalkeeper
+41705,USA,Bradley,Edwin,Guzan,,Brad Guzan,,1984-09-09,Goalkeeper
 33223,Ghana,Asamoah,,Gyan,,,,1985-11-22,Striker
 12674,England,Fitz,,Hall,,,,1980-12-20,Central Defender
 40660,England,Adam,,Hammill,,,,1988-01-25,Midfielder
@@ -228,7 +228,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 20066,Wales,Wayne,Robert,Hennessey,,,,1987-01-24,Goalkeeper
 10561,England,Karl,,Henry,,,,1982-11-26,Midfielder
 1619,France,Thierry,,Henry,,,,1977-08-17,Striker
-49493,Australia,Christopher,,Herd,,,,1989-04-04,Central Midfielder
+49493,Australia,Christopher,,Herd,,Chris Herd,,1989-04-04,Central Midfielder
 43020,Mexico,Javier,,Hernández,Balcázar,,,1988-06-01,Striker
 1765,England,Emile,,Heskey,,,,1978-01-11,Striker
 9007,England,Tony,,Hibbert,,,,1981-02-20,Right Full-back
@@ -237,7 +237,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 49806,Canada,David,Wayne,Hoilett,,Junior Hoilett,,1990-06-05,Striker
 5741,England,Grant,,Holt,,,,1981-04-12,Striker
 28499,Republic of Ireland,Wes,,Hoolahan,,,,1982-05-20,Midfielder
-15337,USA,Timothy,Matthew,Howard,,,,1979-03-06,Goalkeeper
+15337,USA,Timothy,Matthew,Howard,,Tim Howard,,1979-03-06,Goalkeeper
 38297,England,Jonathan,,Howson,,,,1988-05-21,Central Midfielder
 15109,England,Tom,,Huddlestone,,,,1986-12-28,Central Midfielder
 1869,Northern Ireland,Aaron,,Hughes,,,,1979-11-08,Central Defender
@@ -345,7 +345,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 15428,England,Luke,,Moore,,,,1986-02-13,Striker
 39464,Greece,Vangelis,,Moras,,,,1981-08-26,Central Defender
 41270,Brazil,David,Luiz,Moreira,Marinho,David Luiz,,1987-04-22,Defender
-40204,Wales,Steven,William,Morison,,,,1983-08-29,Striker
+40204,Wales,Steven,William,Morison,,Steve Morison,,1983-08-29,Striker
 87860,England,Josh,,Morris,,,,1991-09-30,Midfielder
 18008,Scotland,James,,Morrison,,,,1986-05-25,Right Winger
 49013,Nigeria,Victor,,Moses,,,,1990-12-12,Midfielder
@@ -387,7 +387,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 10089,Bulgaria,Martin,,Petrov,,,,1979-01-15,Left Winger
 2160,Bulgaria,Stiliyan,,Petrov,,,,1979-07-05,Midfielder
 56944,Serbia,Radosav,,Petrović,,,,1989-03-08,Midfielder
-43191,Brazil,Lucas,,Pezzini,Leiva,,,1987-01-09,Central Midfielder
+43191,Brazil,Lucas,,Pezzini,Leiva,Lucas Leiva,,1987-01-09,Central Midfielder
 7525,South Africa,Steven,Jerome,Pienaar,,,,1982-03-17,Midfielder
 40451,Republic of Ireland,Anthony,,Pilkington,,,,1988-06-06,Midfielder
 7459,Chile,David,Marcelo,Pizarro,Cortés,,,1979-09-11,Central Midfielder
@@ -399,7 +399,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 41792,Wales,Aaron,James,Ramsey,,,,1990-12-26,Midfielder
 42996,Spain,Àngel,,Rangel,Zaragoza,,,1982-11-28,Right Full-back
 93666,Côte d'Ivoire,Abdul,,Razak,,,,1992-11-11,Midfielder
-82514,USA,Timothy,Michael,Ream,,,,1987-10-05,Central Defender
+82514,USA,Timothy,Michael,Ream,,Tim Ream,,1987-10-05,Central Defender
 16734,Portugal,Paulo,Renato,Rebocho,Ferreira,Paulo Ferreira,,1979-01-18,Defender
 3332,Republic of Ireland,Steven,,Reid,,,,1981-03-10,Right Full-back
 8432,Spain,José,Manuel,Reina,Páez,Pepe Reina,,1982-08-31,Goalkeeper
@@ -407,7 +407,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 73459,Wales,Ashley,Darel Jazz,Richards,,Jazz Richards,,1991-04-12,Midfielder
 20492,England,Micah,,Richards,,,,1988-06-24,Right Full-back
 15073,England,Kieran,,Richardson,,,,1984-10-21,Left Winger
-7712,Wales,Samuel,Derek,Ricketts,,,,1981-10-11,Defender
+7712,Wales,Samuel,Derek,Ricketts,,Sam Ricketts,,1981-10-11,Defender
 14278,England,Liam,,Ridgewell,,,,1984-07-21,Defender
 4098,Norway,John Arne,,Riise,,,,1980-09-24,Left Full-back
 105322,England,Joe,,Riley,,,,1991-10-13,Right Full-back
@@ -505,7 +505,7 @@ ID,Country,First Name,Middle Name,Last Name,Second Last Name,Nickname,Name Order
 60865,Greece,Apostolos,,Vellios,,,,1992-01-08,Striker
 15943,Belgium,Thomas,,Vermaelen,,,,1985-11-14,Defender
 14965,Serbia,Nemanja,,Vidić,,,,1981-10-21,Central Defender
-40399,Wales,Samuel,Michael,Vokes,,,,1989-10-21,Striker
+40399,Wales,Samuel,Michael,Vokes,,Sam Vokes,,1989-10-21,Striker
 39215,Netherlands,Michel,,Vorm,,,,1983-10-20,Goalkeeper
 59304,Slovenia,Haris,,Vučkić,,,,1992-08-21,Midfielder
 19602,Montenegro,Simon,,Vukčević,,,,1986-01-29,Midfielder
