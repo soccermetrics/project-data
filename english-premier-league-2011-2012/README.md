@@ -218,8 +218,6 @@ Stoppage | Stoppage time in minutes, if applicable | Integer
 PlayerStats
 -----------
 
-_(With over 200 fields, it will take a while to describe all of the fields in the PlayerStats file.)_
-
 Field | Description | Type
 ------|-------------|-----
 Date | Match date (YYYY-MM-DD) | Integer 
@@ -315,6 +313,92 @@ Other Goals | Other goals scored | Integer
 Shots Cleared off Line Inside Area | Number of shots from inside penalty area that are cleared off goal line | Integer
 Shots Cleared off Line Outside Area | Number of shots from outside penalty area that are cleared off goal line | Integer
 Shots Cleared off Line | Total number of shots cleared off goal line | Integer
+Key Corner | Number of corners taken deemed to have impact in match | Integer
+Key Free Kick | Number of free kicks taken deemed to have impact in match | Integer
+Key Throw In | Number of throw-ins taken deemed to have impact in match | Integer
+Key Goal Kick | Number of goal kicks taken deemed to have impact in match | Integer
+Pass Forward | Total passes played toward opponent's goal | Integer
+Pass Backward | Total passes played toward own goal | Integer
+Pass Left | Total passes played toward left touch line | Integer
+Pass Right | Total passes played toward right touch line | Integer
+Successful Short Passes | "Short" length passes that reach a teammate | Integer
+Unsuccessful Short Passes | "Short" length passes that do not reach a teammate | Integer
+Successful Long Passes | "Long" length passes that reach a teammate | Integer
+Unsuccessful Long Passes | "Long" length passes that do not reach a teammate | Integer
+Successful Flick-Ons | Re-directed passes that reach a teammate | Integer
+Unsuccessful Flick-Ons | Re-directed passes that do not reach a teammate  | Integer
+Successful Passes Own Half | Passes initiated from own half that reach a teammate | Integer
+Unsuccessful Passes Own Half | Passes initiated from own half that do not reach a teammate  | Integer
+Successful Passes Opposition Half | Passes initiated from opposition half that reach a teammate | Integer
+Unsuccessful Passes Opposition Half | Passes initiated from opposition half that do not reach a teammate | Integer
+Successful Passes Defensive third | Passes initiated from defensive third of field that reach a teammate | Integer
+Unsuccessful Passes Defensive third | Passes initiated from defensive third of field that do not reach a teammate | Integer
+Successful Passes Middle third | Passes initiated from middle third of field that reach a teammate | Integer
+Unsuccessful Passes Middle third | Passes initiated from middle third of field that do not reach a teammate | Integer
+Successful Passes Final third | Passes initiated from final third of field that reach a teammate | Integer
+Unsuccessful Passes Final third | Passes initiated from final third of field that do not reach a teammate | Integer
+Total Successful Passes All | All passes that are successfully controlled by a teammate | Integer
+Total Unsuccessful Passes All | All passes that are not successfully controlled by a teammate | Integer
+Total Successful Passes Excl Crosses Corners | All successful passes, excluding crosses that result from corners | Integer
+Total Unsuccessful Passes Excl Crosses Corners | All unsuccessful passes, excluding crosses that result from corners | Integer
+Successful Long Balls | All successful long passes (30 meters or more) | Integer
+Unsuccessful Long Balls | All unsuccessful long passes | Integer
+Successful Lay-Offs | All successful lay-off passes | Integer
+Unsuccessful Lay-Offs | All unsuccessful lay-off passes | Integer
+Through Ball | All passes between a group of defenders toward a teammate | Integer
+Key Passes | All passes deemed important to buildup or team strategy | Integer
+Penalties Taken | Number of penalties taken by player | Integer
+Penalties Saved | Number of penalties saved by goalkeeper | Integer
+Penalties Off Target | Number of penalties put on target | Integer
+Attempts from Penalties on target | Number of penalties put off target | Integer
+Headed Shots On Target | Number of shots on goal taken with head | Integer
+Headed Shots Off Target | Number of shots not on goal taken with head | Integer
+Left Foot Shots On Target | Number of shots on goal taken with left foot | Integer
+Left Foot Shots Off Target | Number of shots not on goal taken with left foot | Integer
+Right Foot Shots On Target | Number of shots on goal taken with right foot | Integer
+Right Foot Shots Off Target | Number of shots not on goal taken with right foot | Integer
+Blocked Direct Free-kick | Number of direct free kicks blocked | Integer
+Blocked Shots from Inside Box | Number of blocked shots that were made inside penalty area | Integer
+Blocked Shots Outside Box | Number of blocked shots that were made outside penalty area | Integer
+Headed Blocked Shots | Number of blocked shots that were taken with the head | Integer
+Left Foot Blocked Shots | Number of blocked shots that were taken with left foot | Integer
+Right Foot Blocked Shots | Number of blocked shots that were taken with right foot | Integer
+Other Blocked Shots | Number of blocked shots made or taken under other scenarios | Integer
+Blocked Shots | Total number of blocked shots | Integer
+Shots On from Inside Box | Number of shots on goal taken from inside penalty box | Integer
+Shots Off from Inside Box | Number of shots not on goal taken from inside penalty box | Integer
+Shots On Target Outside Box | Number of shots on goal taken from outside penalty box | Integer
+Shots Off Target Outside Box | Number of shots not on goal taken from outside penalty box | Integer
+Attempts Open Play on target | Number of shots from open play that were on goal | Integer
+Attempts Open Play off target | Number of shots from open play that were not on goal | Integer
+Attempts from Set Play on target | Number of shots from set plays that were on goal | Integer
+Attempts from Set Play off target | Number of shots from set plays that were not on goal | Integer
+Attempts from Direct Free Kick on target | Number of shots from direct free kicks that were on goal | Integer
+Attempts from Direct Free Kick off target | Number of shots from direct free kicks that were not on goal | Integer
+Attempts from Corners on target | Number of shots from corner kicks that were on goal | Integer
+Attempts from Corners off target | Number of shots from corner kicks that were not on goal | Integer
+Attempts from Throws on target | Number of shots from throw-ins that were on goal | Integer
+Attempts from Throws off target | Number of shots from throw-ins that were not on goal | Integer
+Other Shots On Target | Number of miscellaneous shots that were on goal | Integer
+Other Shots Off Target | Number of miscellaneous shots that were not on goal | Integer
+Shots On Target inc goals | Number of shots made into goal face, including successful shots | Integer
+Shots Off Target inc woodwork | Number of shots made that flew away/over goal face or hit posts | Integer
+Big Chances | Number of shots that represented clear chances to score | Integer
+Tackles Won | Number of successful tackles attempts by player | Integer
+Tackles Lost | Number of unsuccessful tackle attempts | Integer
+Last Man Tackle | Number of successful last-man tackles | Integer
+Throw Ins to Own Player | Number of throw-ins controlled by a teammate | Integer
+Throw Ins to Opposition Player | Number of throw-ins controlled by an opposing player | Integer
+Take-Ons Overrun | Number of dribbling attempts where ball rolls away | Integer
+Successful Dribbles | Number of successful dribbles/take-ons past opponent | Integer
+Unsuccessful Dribbles | Number of unsuccessful dribbles/take-ons past opponent | Integer
+Successful Ball Touch | Number of successful ball touches (controlled possession) | Integer
+Unsuccessful Ball Touch | Number of unsuccessful ball touches (lost possession) | Integer
+Dispossessed | Number of lost possessions | Integer
+Touches | Total number of ball touches | Integer
+Touches open play final third | Number of touches in opposing final third of pitch | Integer
+Touches open play opp box | Number of touches within opposing penalty area | Integer
+Touches open play opp six yards | Number of touches within opposing goal (six-yard) area | Integer
 
 Sources:
 
