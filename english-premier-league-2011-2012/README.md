@@ -257,6 +257,14 @@ Successful Crosses Corners Left | Successful crosses from corners that started f
 Unsuccessful Crosses Corners Left | Unsuccessful crosses from corners that started from left side | Integer
 Successful Crosses Corners Right | Successful crosses from corners that started from right side | Integer
 Unsuccessful Crosses Corners Right | Unsuccessful crosses from corners that started from right side | Integer
+Successful crosses in the air | Total crosses through the air that reach teammate | Integer
+Unsuccessful crosses in the air | Total crosses through the air that miss teammate | Integer
+Successful open play crosses | Total crosses during open play that reach teammate | Integer
+Unsuccessful open play crosses | Total crosses during open play that miss teammate | Integer
+Successful Crosses Left | Total crosses from left flank that reach teammate | Integer
+Unsuccessful Crosses Left | Total crosses from left flank that miss teammate | Integer
+Successful Crosses Right | Total crosses from right flank that reach teammate | Integer
+Unsuccessful Crosses Right | Total crosses from right flank that miss teammate | Integer
 Blocks | Total number of blocked balls | Integer
 Interceptions | Total number of pass interceptions | Integer
 Recoveries | Number of balls recovered after initial loss of possession | Integer
