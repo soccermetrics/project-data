@@ -1,14 +1,14 @@
 Year,Champions,Points,GP,Points/Win,Pts Pct
 1888–89,Preston North End,40,22,2,0.90909091
-1889–90,Preston North End,33,22,2,0.75000000
+1889–90,Preston North End,33,22,2,0.75
 1890–91,Everton,29,22,2,0.65909091
 1891–92,Sunderland,42,26,2,0.80769231
-1892–93,Sunderland,48,30,2,0.80000000
+1892–93,Sunderland,48,30,2,0.8
 1893–94,Aston Villa,44,30,2,0.73333333
 1894–95,Sunderland,47,30,2,0.78333333
-1895–96,Aston Villa,45,30,2,0.75000000
+1895–96,Aston Villa,45,30,2,0.75
 1896–97,Aston Villa,47,30,2,0.78333333
-1897–98,Sheffield United,42,30,2,0.70000000
+1897–98,Sheffield United,42,30,2,0.7
 1898–99,Aston Villa,45,34,2,0.66176471
 1899–1900,Aston Villa,50,34,2,0.73529412
 1900–01,Liverpool,45,34,2,0.66176471
@@ -59,7 +59,7 @@ Year,Champions,Points,GP,Points/Win,Pts Pct
 1956–57,Manchester United,64,42,2,0.76190476
 1957–58,Wolverhampton Wanderers,64,42,2,0.76190476
 1958–59,Wolverhampton Wanderers,61,42,2,0.72619048
-1959–60,Burnley,55,42,2,0.65476190
+1959–60,Burnley,55,42,2,0.6547619
 1960–61,Tottenham Hotspur,66,42,2,0.78571429
 1961–62,Ipswich Town,56,42,2,0.66666667
 1962–63,Everton,61,42,2,0.72619048
@@ -85,9 +85,9 @@ Year,Champions,Points,GP,Points/Win,Pts Pct
 1982–83,Liverpool,82,42,3,0.65079365
 1983–84,Liverpool,80,42,3,0.63492063
 1984–85,Everton,90,42,3,0.71428571
-1985–86,Liverpool,88,42,3,0.69841270
+1985–86,Liverpool,88,42,3,0.6984127
 1986–87,Everton,86,42,3,0.68253968
-1987–88,Liverpool,90,40,3,0.75000000
+1987–88,Liverpool,90,40,3,0.75
 1988–89,Arsenal,76,38,3,0.66666667
 1989–90,Liverpool,79,38,3,0.69298246
 1990–91,Arsenal,83,42,3,0.65873016
@@ -115,4 +115,4 @@ Year,Champions,Points,GP,Points/Win,Pts Pct
 2012–13,Manchester United,89,38,3,0.78070175
 2013–14,Manchester City,86,38,3,0.75438596
 2014–15,Chelsea,87,38,3,0.76315789
-2015–16,Leicester City,77,36,3,0.71296296
+2015–16,Leicester City,80,37,3,0.72072072
