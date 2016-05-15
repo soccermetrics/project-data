@@ -21,3 +21,5 @@ Pts Pct | Percentage of available league points won | Float
 This data was used in the following article:
 
 * [How do Leicester City compare to previous English football champions?](http://www.soccermetrics.net/league-competitions/how-do-leicester-city-compare-to-previous-english-football-champions)
+
+Sources: Wikipedia, RSSSF
