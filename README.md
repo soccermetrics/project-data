@@ -6,7 +6,9 @@ It is our hope that these data and tools will be used by others in the soccer an
 
 ## Other Sport Data Repositories
 
-Links will be added here.
+From Danny Page, [an archive of data and models of women's soccer league matches.](https://github.com/CynicalFooty/WoSo).
+
+From Christopher Long, [his archive of worldwide soccer data and models.](https://github.com/octonion/soccer)
 
 ## Contents
 
