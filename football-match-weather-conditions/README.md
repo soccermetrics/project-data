@@ -13,6 +13,7 @@ The initial collection of competitions are listed below:
 | German 1.Bundesliga        | 2016-17 | `german-bundesliga-2016-17.csv` |
 | Italian Serie A            | 2016-17 | `italian-serie-a-2016-17.csv` |
 | Spanish Primera División   | 2016-17 | `spanish-primera-2016-17.csv` |
+| Major League Soccer        | 2016    | `major-league-soccer-2016.csv` |
 
 These datasets contain the following fields:
 
