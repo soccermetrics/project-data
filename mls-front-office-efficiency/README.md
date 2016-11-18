@@ -1,10 +1,11 @@
 MLS Front Office Efficiency
 ===========================
 
-Standardized front-office efficiency (aka standard win cost) and payroll costs per point of Major League Soccer teams in the Designated Player era, 2007-2015 seasons.
+Standardized front-office efficiency (aka standard win cost) and payroll costs per point of Major League Soccer teams in the Designated Player era, 2007-2016 seasons.
 
 This data has been used in the following articles:
 
+* [MLS Front-Office Efficiency: 2016 edition](http://www.soccermetrics.net/football-business-analytics/front-office-efficiency-football-business-analytics/mls-front-office-efficiency-2016-edition)
 * [MLS Front-Office Efficiency: 2015 edition](http://www.soccermetrics.net/football-business-analytics/front-office-efficiency-football-business-analytics/mls-front-office-efficiency-2015-edition)
 * [MLS Front-Office Efficiency in the Designated Player era](http://www.soccermetrics.net/football-business-analytics/front-office-efficiency-football-business-analytics/mls-front-office-efficiency-in-the-designated-player-era)
 * [Visualizing MLS Front-Office Efficiency in the DP Era](http://www.soccermetrics.net/football-business-analytics/front-office-efficiency-football-business-analytics/d3-and-foe-data)
@@ -15,8 +16,9 @@ Header | Definition
 `Team` | Name of MLS team
 `Payroll` | Available payroll of MLS team
 `Points` | Total league points won
-`PPG` | Points-per-game
+`PPG` | Points per game ratio
 `Utilization` | Team utilization factor
+`Cost_ppg` | Payroll cost per points per game
 `Cost_ppt` | Payroll cost per league point
 `Std_cost` | Standardized win cost
 
