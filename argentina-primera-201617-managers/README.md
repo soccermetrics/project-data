@@ -27,3 +27,5 @@ PPG | Points per Game / Promedio de puntos
 xGF | Expected Goals created / Expectativa de gol marcado
 xGA | Expected Goals allowed / Expectativa de gol recibido
 xGD | Expected Goal differential / Diferencia de expectativa de gol
+
+Source: DataFactory LatAm
