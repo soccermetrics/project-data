@@ -1,0 +1,167 @@
+Home Team,Away Team,Referee,YC,RC,Pen,P1,P2,P1 MTBF,P2 MTBF,P1 MTBS,P2 MTBS,EPT Lower,EPT Nominal,EPT Upper
+Def. y Justicia,Gimnasia,Facundo Tello,4,1,0,122,185,224.3,181.5,69,68.1,3518,3659,3775
+Newell`s,Unión,Fernando Espinoza,5,0,2,90,195,262.7,228.8,59.8,57.3,2709,3002,3235
+Boca Juniors,Olimpo,Néstor Fabián Pitana,2,0,2,127,190,221.1,167.4,83.9,62.2,3274,3432,3561
+Independiente,Huracán,Patricio Loustau,3,0,0,14,161,214.2,186.2,68.4,55,2849,3091,3285
+Atlético Tucumán,Godoy Cruz,Jorge Baliño,5,1,0,120,190,220.9,225.8,61.7,56.1,2760,3025,3237
+Talleres,Lanús,Mauro Vigliano,3,0,2,11,297,148,605.8,83.6,72.5,3583,3757,3900
+Tigre,Vélez,Darío Herrera,7,0,0,118,177,190.9,202.7,53.6,61.2,1852,2134,2358
+Argentinos Juniors,Chacarita,Nicolás Lamolina,5,0,0,66,179,219.2,276.9,54.6,52.3,2203,2572,2859
+Banfield,Belgrano,Germán Delfino,4,1,2,82,228,169.3,141.4,57.6,52.4,2764,3030,3241
+San Martín (SJ),Patronato,Diego Abal,4,0,0,61,180,224.7,180.8,74.9,68.4,3162,3314,3440
+San Lorenzo,Racing Club,Fernando Echenique,5,0,0,133,300,292.8,214.7,67.1,63.4,2622,2882,3089
+Temperley,River Plate,Federico Rapallini,6,1,0,78,244,127.7,105.1,52.3,55.4,2972,3175,3339
+Colón,Rosario Central,Juan Pablo Pompei,7,0,0,127,212,153.3,213.7,66,73.1,3136,3316,3463
+Estudiantes,Arsenal,Silvio Trucco,6,0,0,125,194,218.5,119.4,65.8,43.6,2349,2637,2865
+Estudiantes,Def. y Justicia,Fernando Espinoza,6,0,0,64,256,289.3,321.9,67,71.4,2857,3099,3293
+Patronato,Argentinos Juniors,Juan Pablo Pompei,4,0,0,59,255,180.5,151.4,62.5,55.8,3169,3417,3616
+Rosario Central,San Lorenzo,Patricio Loustau,3,1,0,120,186,152.1,184.8,55.8,57.4,2850,3092,3286
+River Plate,Banfield,Néstor Fabián Pitana,5,0,2,76,185,153,120.2,59.4,62.9,3074,3254,3401
+Arsenal,Colón,Ariel Penel,2,0,0,54,233,262.7,162.7,49.4,49.4,2147,2452,2693
+Racing Club,Temperley,Silvio Trucco,6,0,0,183,108,274.6,241.9,73.3,78.3,3299,3480,3627
+Huracán,Newell`s,Mauro Vigliano,4,0,0,178,240,271.6,205.7,51.5,51,1943,2317,2609
+Chacarita,Tigre,Federico Rapallini,6,0,0,80,360,141.9,175.4,45,50.5,2149,2512,2796
+Vélez,Atlético Tucumán,Germán Delfino,4,1,0,72,177,136.8,214.6,47.4,57.8,2216,2510,2743
+Lanús,Boca Juniors,Fernando Echenique,6,0,0,75,266,156.6,133.9,68.3,58.6,3023,3254,3440
+Godoy Cruz,Talleres,Darío Herrera,3,1,0,240,257,209.6,223.6,74.6,67.1,2533,2718,2870
+Olimpo,Independiente,Jorge Baliño,2,0,0,65,297,159.2,132.1,42.3,46.3,2132,2460,2718
+Belgrano,San Martín (SJ),Andrés Merlos,5,0,0,68,247,165.4,156.9,55.3,60.6,3127,3392,3603
+Unión,Gimnasia,Nicolás Lamolina,4,0,0,69,216,188,246.5,65.8,50.5,2817,3123,3364
+Atlético Tucumán,Chacarita,Facundo Tello,4,0,0,150,181,178.4,296.3,70.2,59.4,2409,2674,2885
+Gimnasia,Huracán,Silvio Trucco,6,0,0,92,313,167.2,151.3,58.7,56.2,2954,3214,3421
+Banfield,Racing Club,Ariel Penel,5,0,0,74,240,259.7,190.7,60.7,58.4,2949,3242,3475
+Boca Juniors,Godoy Cruz,Germán Delfino,2,0,0,59,152,216.5,433,68.2,75.2,2965,3162,3322
+Independiente,Lanús,Fernando Espinoza,5,0,2,106,323,195.2,204.4,88,83.4,3476,3612,3724
+Def. y Justicia,Unión,Andrés Merlos,4,0,0,55,180,192.6,373,94,94.7,4292,4352,4404
+Talleres,Vélez,Nicolás Lamolina,6,2,0,55,204,178.5,172.3,57.2,63.2,2192,2463,2678
+Tigre,Patronato,Jorge Baliño,7,0,0,122,285,266,150.9,65.5,62.4,2480,2706,2887
+Argentinos Juniors,Belgrano,Hernán Mastrángelo,6,0,0,68,246,132.8,189.9,56.9,48.4,2411,2693,2917
+San Lorenzo,Arsenal,Federico Beligoy,5,0,0,66,269,205.2,189.1,62,59.8,2905,3153,3352
+San Martín (SJ),River Plate,Fernando Echenique,3,0,0,180,300,284.3,133.9,58.4,51.6,2840,3123,3347
+Newell`s,Olimpo,Pablo Echavarría,7,0,0,57,459,162.2,192.6,66.7,54.4,2907,3144,3334
+Temperley,Rosario Central,Diego Abal,5,0,0,64,239,177,122,52.6,43.5,2329,2663,2925
+Colón,Estudiantes,Pedro Argañaraz,2,0,0,81,247,167.6,173.4,65,61,2601,2867,3078
+Colón,Def. y Justicia,Juan Pablo Pompei,4,0,0,82,268,271.2,189.6,59.5,64.2,2961,3164,3328
+Estudiantes,San Lorenzo,Ariel Penel,4,0,0,59,189,119.5,248.7,59.8,58.2,2445,2722,2942
+Patronato,Atlético Tucumán,Silvio Trucco,3,0,0,67,262,298.4,230.3,67.2,50.9,2835,3089,3292
+Huracán,Unión,Facundo Tello,5,0,0,94,192,181.5,160,54.7,57.7,3124,3435,3680
+River Plate,Argentinos Juniors,Diego Abal,5,0,2,73,197,168.8,264.2,57.1,49.2,2261,2629,2917
+Racing Club,San Martín (SJ),Néstor Fabián Pitana,3,0,0,71,244,407.8,237.5,65.1,56.1,2825,3141,3391
+Belgrano,Tigre,Federico Beligoy,5,1,0,69,309,206.2,204.1,62,55.9,1942,2258,2508
+Godoy Cruz,Independiente,Patricio Loustau,4,0,2,63,250,247.6,176.7,70.6,71.2,2952,3188,3378
+Chacarita,Talleres,Germán Delfino,4,3,0,20,256,255.9,241.2,82.5,72.4,2963,3166,3330
+Vélez,Boca Juniors,Fernando Espinoza,5,0,0,120,50,177.4,642.3,58.2,64.1,2612,2883,3099
+Lanús,Newell`s,Federico Rapallini,7,1,0,67,256,175.3,160.1,70.6,69.2,3012,3187,3329
+Rosario Central,Banfield,Mauro Vigliano,3,0,2,70,123,198.9,243,67.5,57.1,2604,2852,3050
+Arsenal,Temperley,Andrés Merlos,6,1,0,60,310,160.1,131.9,62.7,51.2,2574,2817,3011
+Olimpo,Gimnasia,Darío Herrera,4,0,0,73,235,160.7,200.9,58.3,55.2,2453,2684,2869
+Atlético Tucumán,Belgrano,Darío Herrera,5,0,0,72,184,194.7,159.1,48.2,59.3,2514,2819,3061
+Unión,Olimpo,Pedro Argañaraz,3,1,0,65,120,199.5,382.7,56.8,62.5,2638,2914,3134
+Gimnasia,Lanús,Patricio Loustau,6,0,4,234,248,301.8,182.3,99,66.9,3597,3738,3855
+Argentinos Juniors,Racing Club,Mauro Vigliano,6,0,0,71,255,232.9,153.7,54.6,55.1,2171,2453,2677
+Boca Juniors,Chacarita,Néstor Fabián Pitana,7,2,0,120,240,150.2,222,66.9,69.1,3384,3553,3692
+Independiente,Vélez,Facundo Tello,8,1,0,68,242,213.1,180.4,64.6,54.5,2384,2660,2880
+San Lorenzo,Colón,Fernando Espinoza,5,0,0,19,195,222.3,162.7,83.3,49.6,2515,2724,2892
+Temperley,Estudiantes,Fernando Echenique,3,0,0,66,258,209.8,250.4,54.8,63.1,2978,3278,3515
+Tigre,River Plate,Ariel Penel,3,0,4,131,177,312.3,289.9,77.1,73.8,3071,3268,3428
+Def. y Justicia,Huracán,Hernán Mastrángelo,2,0,0,65,213,215.9,367.4,77.7,70.1,2582,2819,3009
+Newell`s,Godoy Cruz,Andrés Merlos,5,1,0,70,250,176,303.4,60.5,67.2,2650,2938,3166
+San Martín (SJ),Rosario Central,Juan Pablo Pompei,5,2,2,82,262,212.7,205.2,71.6,72.4,3110,3296,3447
+Talleres,Patronato,Federico Rapallini,6,1,0,48,269,461,203.3,117.3,58.2,3521,3708,3859
+Banfield,Arsenal,Jorge Baliño,6,1,0,139,242,189.1,492,71.1,85.7,2861,3069,3237
+Belgrano,Talleres,Ariel Penel,3,0,0,59,174,136.9,164.4,50.8,53.8,1932,2260,2518
+Colón,Temperley,Hernán Mastrángelo,4,0,0,72,205,298,227.6,72.4,59,2740,2972,3157
+Estudiantes,Banfield,Andrés Merlos,3,0,0,65,182,336.5,247,67.3,66.7,2537,2808,3024
+Patronato,Boca Juniors,Facundo Tello,5,0,0,58,259,211.3,156.3,59.2,49.9,2606,2883,3102
+Vélez,Newell`s,Darío Herrera,4,0,0,60,316,219.6,252.1,67.7,79,2380,2606,2787
+River Plate,Atlético Tucumán,Federico Beligoy,5,0,0,68,248,325.1,1066,64.3,69.8,2849,3131,3355
+Racing Club,Tigre,Germán Delfino,4,1,0,63,221,333.9,332.3,80,64.6,2855,3057,3221
+San Lorenzo,Def. y Justicia,Nicolás Lamolina,3,0,0,125,189,289.1,257.7,62.8,58.3,2828,3105,3324
+Arsenal,San Martín (SJ),Diego Abal,2,0,0,63,253,239.8,187.5,72,52.6,3071,3331,3538
+Chacarita,Independiente,Fernando Echenique,3,0,0,82,240,155.4,243.8,49.8,53.5,2288,2570,2794
+Rosario Central,Argentinos Juniors,Pablo Echavarría,2,0,0,149,299,226.4,278.4,76.3,78,3875,4021,4142
+Lanús,Unión,Juan Pablo Pompei,2,0,0,130,226,309,257.3,110.8,84,3565,3712,3833
+Godoy Cruz,Gimnasia,Silvio Trucco,3,0,0,10,150,218.6,215.8,74.2,52,2758,3024,3235
+Olimpo,Huracán,Fernando Espinoza,5,0,0,65,179,232.1,364,64.9,69.4,2823,3071,3269
+Def. y Justicia,Olimpo,Federico Rapallini,4,0,0,60,177,288.6,257.1,61,53.9,2791,3073,3297
+Banfield,Colón,Darío Herrera,5,0,2,59,195,168.5,160.9,58.6,51.6,2424,2684,2891
+Unión,Godoy Cruz,Pablo Echavarría,2,0,4,60,179,472.4,263.1,69.2,59.5,3109,3375,3586
+Gimnasia,Vélez,Andrés Merlos,4,0,0,63,73,163.2,200.6,71.8,69.2,2818,3026,3194
+Tigre,Rosario Central,Néstor Fabián Pitana,4,0,0,300,307,147.9,175.9,63.3,54.5,2459,2690,2875
+Boca Juniors,Belgrano,Silvio Trucco,6,1,0,5,128,272.9,242.9,65.1,84.1,3124,3334,3502
+Independiente,Patronato,Juan Pablo Pompei,6,0,0,166,360,315.4,248,63.7,51.1,3028,3299,3515
+Huracán,Lanús,Jorge Baliño,2,0,2,123,134,185.2,198.3,59.9,76.7,2914,3129,3301
+Talleres,River Plate,Hernán Mastrángelo,4,0,2,58,124,222.7,240.2,55.9,62.9,2559,2852,3085
+Newell`s,Chacarita,Diego Abal,3,0,0,68,245,205.8,177.9,79.5,62,2439,2653,2825
+Argentinos Juniors,Arsenal,Ariel Penel,6,0,0,174,251,184.4,215.7,74.2,63.7,3258,3472,3645
+San Martín (SJ),Estudiantes,Nicolás Lamolina,5,0,2,120,314,187.8,342.4,68.2,77,3320,3546,3727
+Atlético Tucumán,Racing Club,Fernando Echenique,2,0,0,243,179,315.5,287.7,67.6,73.4,2573,2838,3050
+Temperley,San Lorenzo,Mauro Vigliano,5,0,0,120,256,187,204,61.1,59.4,2607,2832,3013
+Arsenal,Tigre,Patricio Loustau,2,0,0,72,191,179,204.5,76.6,78,3340,3509,3647
+Temperley,Def. y Justicia,Darío Herrera,5,0,4,58,174,300.2,156.9,54,48.4,2340,2673,2936
+Colón,San Martín (SJ),Juan Pablo Pompei,3,0,2,74,252,151.3,204.2,60.9,64.8,2334,2588,2791
+Estudiantes,Argentinos Juniors,Pablo Echavarría,4,1,0,138,237,217.5,263.1,58.8,63.7,2939,3193,3396
+Patronato,Newell`s,Nicolás Lamolina,2,1,0,65,251,176.9,255.7,64.9,50.6,2804,3097,3330
+Belgrano,Independiente,Mauro Vigliano,3,1,0,60,197,175.8,243.1,56.7,69.6,3017,3231,3403
+River Plate,Boca Juniors,Néstor Fabián Pitana,9,2,0,131,284,133.5,146.2,65.5,61,2815,2956,3072
+Racing Club,Talleres,Federico Rapallini,8,2,0,9,424,219.1,171.8,54.5,60.3,2724,3007,3231
+San Lorenzo,Banfield,Germán Delfino,1,0,2,93,249,259.8,163.7,68.5,59.1,3314,3580,3791
+Rosario Central,Atlético Tucumán,Andrés Merlos,4,2,0,115,315,228.1,202.7,65.5,60.3,2626,2896,3112
+Chacarita,Gimnasia,Jorge Baliño,2,0,0,69,242,221.2,201.8,67.7,59.2,2774,3039,3251
+Vélez,Unión,Federico Beligoy,3,0,0,68,254,275.9,251.5,64.3,75,3078,3310,3495
+Lanús,Olimpo,Silvio Trucco,2,0,0,78,171,289.4,197.2,91.8,55,3689,3853,3987
+Godoy Cruz,Huracán,Diego Abal,2,1,0,120,253,291.6,179.8,73.5,52.1,2615,2869,3072
+Atlético Tucumán,Arsenal,Germán Delfino,4,0,0,11,263,231.1,230.3,80.2,80.5,3051,3203,3328
+Def. y Justicia,Lanús,Juan Pablo Pompei,5,1,2,134,128,482,241.4,109.4,68.2,3440,3654,3827
+Olimpo,Godoy Cruz,Ariel Penel,4,0,0,130,199,179.3,280.2,58.4,55.1,2307,2595,2824
+Unión,Chacarita,Mauro Vigliano,3,0,0,78,355,275.7,309.1,52.6,64.3,2555,2947,3251
+Gimnasia,Patronato,Diego Abal,2,2,0,117,104,178.5,175.1,62.2,79,3031,3206,3349
+Talleres,Rosario Central,Jorge Baliño,7,1,0,227,511,154.4,139.4,57.2,54.4,2812,3100,3328
+Boca Juniors,Racing Club,Darío Herrera,8,0,2,81,300,202.5,153.9,58.8,51.5,2428,2710,2934
+Independiente,River Plate,Silvio Trucco,5,1,0,120,187,200.1,161.4,61.5,56.5,2671,2913,3107
+Huracán,Vélez,Mariano González,5,0,2,134,246,144.8,113.3,61.8,57.9,2959,3191,3376
+Newell`s,Belgrano,Pedro Argañaraz,4,0,0,65,275,240.9,150.1,71.6,50,2737,2991,3194
+Tigre,Estudiantes,Andrés Merlos,4,0,2,69,228,219,235,86.9,77.4,2869,3038,3176
+Argentinos Juniors,Colón,Nicolás Lamolina,3,0,0,187,256,187.5,145.7,62.7,64.9,2518,2750,2935
+Banfield,Temperley,Hernán Mastrángelo,5,0,0,147,297,158.5,213.1,58.8,53.5,1726,2071,2342
+San Martín (SJ),San Lorenzo,Federico Rapallini,7,0,0,120,240,191.3,145.8,59.7,61.5,2744,2947,3111
+Patronato,Unión,Jorge Baliño,4,1,2,85,246,299.3,232.1,74.8,72.1,3355,3552,3712
+Arsenal,Talleres,Mauro Vigliano,2,0,0,182,258,190.2,220.2,65.9,64.5,2368,2628,2835
+Temperley,San Martín (SJ),Diego Abal,5,1,0,91,233,177.2,253.1,57,64.7,2979,3262,3486
+Colón,Tigre,Ariel Penel,2,0,2,114,263,226.3,342,63,76.6,3114,3334,3511
+Estudiantes,Atlético Tucumán,Silvio Trucco,6,0,0,180,181,166.1,288.6,68.2,56.6,2234,2493,2700
+Rosario Central,Boca Juniors,Patricio Loustau,10,1,0,360,240,187.7,155.4,66,48,2080,2328,2527
+Belgrano,Gimnasia,Juan Pablo Pompei,3,0,0,123,279,239.3,236.4,72,60.7,2728,2970,3164
+River Plate,Newell`s,Facundo Tello,6,0,2,67,239,228,192.2,82.2,62.6,3420,3634,3807
+Racing Club,Independiente,Germán Delfino,7,1,0,235,355,147.2,215.8,45.9,53,2088,2422,2685
+San Lorenzo,Argentinos Juniors,Hernán Mastrángelo,7,0,2,125,242,138.5,143.6,63.3,65.3,2539,2725,2876
+Banfield,Def. y Justicia,Fernando Espinoza,4,0,0,70,236,239.6,173.2,77.3,53.5,2237,2513,2733
+Chacarita,Huracán,Federico Rapallini,2,0,2,69,181,221.9,150.6,72,60,2625,2839,3011
+Vélez,Olimpo,Pablo Echavarría,1,0,0,52,179,207.9,201.9,79.4,56.7,2600,2820,2997
+Lanús,Vélez,Jorge Baliño,5,1,0,60,267,202.3,186.4,86.6,63.3,2822,3019,3179
+Atlético Tucumán,Colón,Andrés Merlos,4,1,0,140,240,258.8,151.4,56.9,52.2,2047,2387,2653
+Def. y Justicia,Godoy Cruz,Hernán Mastrángelo,0,0,0,58,182,216.1,197.3,67.7,55.8,3100,3360,3567
+Olimpo,Chacarita,Néstor Fabián Pitana,5,0,0,135,255,254.5,156.8,60.9,59,2929,3200,3415
+Unión,Belgrano,Germán Delfino,4,0,0,122,312,256.9,243.5,72.8,62.2,2908,3150,3344
+Gimnasia,River Plate,Fernando Espinoza,4,0,0,66,241,180,191.2,75,60.3,3382,3596,3768
+San Martín (SJ),Banfield,Silvio Trucco,6,0,0,82,250,216.8,171.9,59,46.7,2725,3065,3331
+Newell`s,Racing Club,Ariel Penel,8,1,2,56,177,242.6,162.6,64.3,64.3,2786,2983,3143
+Huracán,Patronato,Nicolás Lamolina,9,1,4,120,307,226.1,156.6,73.3,70,2863,3044,3190
+Talleres,Estudiantes,Diego Abal,4,0,2,113,178,199,253.9,56.7,68.8,2228,2528,2765
+Tigre,San Lorenzo,Fernando Echenique,5,0,0,119,342,200,148.4,72.2,52.4,2934,3160,3341
+Boca Juniors,Arsenal,Facundo Tello,5,1,0,53,287,353.2,180.9,104.3,63.1,3664,3805,3922
+Argentinos Juniors,Temperley,Darío Herrera,4,2,0,63,186,198.8,260.2,64.6,79.9,3365,3539,3682
+San Martín (SJ),Def. y Justicia,Facundo Tello,4,0,0,79,296,201.8,179.3,67.3,63.5,2676,2918,3112
+Arsenal,Independiente,Federico Beligoy,1,0,0,80,186,250.6,167.9,60,46.4,2367,2701,2963
+Temperley,Tigre,Juan Pablo Pompei,7,0,2,180,334,371,181.1,77,55.7,3044,3321,3541
+Colón,Talleres,Jorge Baliño,7,1,2,158,282,314.2,161.7,96.4,60.6,3511,3731,3908
+Estudiantes,Boca Juniors,Fernando Espinoza,8,0,0,118,340,207.6,181.5,73.8,66.1,2776,3012,3202
+Patronato,Olimpo,Silvio Trucco,5,0,0,70,240,212.6,184.7,92,65,2721,2895,3038
+Belgrano,Huracán,Darío Herrera,3,1,0,61,233,180.9,193.5,60.8,57.7,2692,2969,3189
+River Plate,Unión,Patricio Loustau,6,0,2,130,253,185.2,223.1,63.8,50,2611,2917,3158
+Racing Club,Gimnasia,Diego Abal,2,0,2,110,235,128.3,159.7,67.4,55,2885,3082,3242
+San Lorenzo,Atlético Tucumán,Ariel Penel,3,0,0,72,193,232.8,345,57.2,51.6,2524,2830,3071
+Rosario Central,Newell`s,Néstor Fabián Pitana,8,0,0,126,299,131.4,135.3,60.3,48.9,1780,2050,2266
+Chacarita,Lanús,Nicolás Lamolina,5,1,0,203,77,138.3,237,59.2,70.6,3057,3249,3405
+Vélez,Godoy Cruz,Fernando Echenique,5,0,0,66,305,169.9,218,71.6,63.9,3240,3454,3627
+Banfield,Argentinos Juniors,Andrés Merlos,2,0,0,178,248,233.3,325.1,101.9,69.1,3018,3204,3355
