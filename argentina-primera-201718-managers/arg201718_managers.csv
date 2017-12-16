@@ -1,42 +1,42 @@
-,Manager,Club,Pld,W,D,L,GF,GA,GD,Pts,PPG,xGF,xGA,xGD
-25,Alfredo Berti,Argentinos Juniors,12,5,2,5,17,15,2,17,1.417,12.441,13.580,-1.139
-10,Humberto Grondona,Arsenal,12,1,2,9,6,15,-9,5,0.417,11.942,17.256,-5.313
-18,Ricardo Zielinski,Atlético Tucumán,12,4,4,4,12,12,0,16,1.333,13.558,14.315,-0.757
-24,Julio César Falcioni,Banfield,12,4,3,5,15,14,1,15,1.250,13.939,11.543,2.396
-7,Sebastián Méndez,Belgrano,6,2,3,1,4,3,1,9,1.500,5.498,6.154,-0.656
-34,Pablo Lavallén,Belgrano,6,3,2,1,5,5,0,11,1.833,7.019,7.439,-0.420
-21,Guillermo Barros Schelotto,Boca Juniors,12,10,0,2,25,5,20,30,2.500,18.840,10.473,8.368
-27,Walter Coyette,Chacarita,11,1,3,7,6,13,-7,6,0.545,7.446,12.386,-4.941
-15,Luís Marabotto,Chacarita,1,1,0,0,3,0,3,3,3.000,2.148,0.580,1.568
-37,Eduardo Domínguez,Colón,12,5,5,2,15,11,4,20,1.667,15.233,14.244,0.989
-16,Juan Pablo Vojvoda,Def. y Justicia,7,4,1,2,13,8,5,13,1.857,10.656,6.343,4.313
-36,Nelson Vivas,Def. y Justicia,4,1,1,2,7,10,-3,4,1.000,4.430,5.869,-1.439
-26,Manuel Fernández,Def. y Justicia,1,0,1,0,0,0,0,1,1.000,1.438,0.211,1.228
-31,Lucas Bernardi,Estudiantes,8,4,1,3,7,5,2,13,1.625,7.638,7.968,-0.330
-1,Gustavo Matosas,Estudiantes,3,1,1,1,2,2,0,4,1.333,3.732,2.890,0.842
-6,Leandro Damián Benítez,Estudiantes,1,0,0,1,1,3,-2,0,0.000,1.105,1.170,-0.065
-11,Mariano Soso,Gimnasia,12,4,1,7,16,22,-6,13,1.083,15.380,15.985,-0.605
-13,Mauricio Larriera,Godoy Cruz,11,5,2,4,14,14,0,17,1.545,11.869,14.636,-2.767
-5,Gustavo Alfaro,Huracán,12,6,3,3,16,8,8,21,1.750,13.426,10.754,2.671
-28,Ariel Holan,Independiente,11,6,3,2,12,7,5,21,1.909,15.267,9.146,6.122
-38,Jorge Almirón,Lanús,10,4,1,5,9,17,-8,13,1.300,9.006,13.400,-4.394
-4,Ezequiel Carboni,Lanús,1,0,0,1,0,3,-3,0,0.000,0.580,2.148,-1.568
-2,Juan Manuel Llop,Newell`s,12,3,4,5,10,10,0,13,1.083,14.658,13.502,1.156
-19,Rubén Forestello,Olimpo,6,2,2,2,6,6,0,8,1.333,4.737,8.620,-3.882
-35,Mario Sciacqua,Olimpo,6,0,1,5,1,11,-10,1,0.167,3.836,11.755,-7.919
-22,Juan Pablo Pumpido,Patronato,12,4,3,5,12,15,-3,15,1.250,10.777,21.299,-10.522
-29,Diego Martín Cocca,Racing Club,10,3,3,4,10,11,-1,12,1.200,9.528,10.270,-0.742
-33,Juan Ramón Fleita,Racing Club,2,1,1,0,5,3,2,4,2.000,3.659,2.488,1.171
-3,Marcelo Gallardo,River Plate,12,4,3,5,16,18,-2,15,1.250,17.883,13.719,4.164
-0,Paolo Montero,Rosario Central,8,0,4,4,5,14,-9,4,0.500,9.175,8.154,1.021
-14,Leonardo Fernández,Rosario Central,3,3,0,0,3,0,3,9,3.000,5.353,2.257,3.096
-20,Claudio Biaggio,San Lorenzo,9,7,1,1,16,5,11,22,2.444,12.063,9.209,2.854
-39,Diego Aguirre,San Lorenzo,3,1,2,0,2,1,1,5,1.667,3.915,2.811,1.104
-12,Néstor Raúl Gorosito,San Martín (SJ),12,6,2,4,15,13,2,20,1.667,11.536,11.924,-0.387
-8,Darío Kudelka,Talleres,12,6,3,3,16,7,9,21,1.750,17.127,8.760,8.367
-23,Gustavo Álvarez,Temperley,8,1,1,6,4,17,-13,4,0.500,6.985,13.495,-6.510
-30,Gastón Esmerado,Temperley,4,2,2,0,5,3,2,8,2.000,2.813,4.665,-1.853
-17,Ricardo Caruso Lombardi,Tigre,12,1,5,6,9,17,-8,8,0.667,14.416,14.108,0.307
-32,Leonardo Madelón,Unión,12,6,4,2,16,9,7,22,1.833,17.596,9.867,7.728
-40,Omar De Felippe,Vélez,8,3,1,4,6,11,-5,10,1.250,7.070,11.945,-4.875
-9,Marcelo Gómez,Vélez,4,1,1,2,3,2,1,4,1.000,5.825,4.204,1.621
+Manager,Club,Pld,W,D,L,GF,GA,GD,Pts,PPG,xGF,xGA,xGD
+Guillermo Barros Schelotto,Boca Juniors,12,10,0,2,25,5,20,30,2.5,18.84,10.473,8.368
+Darío Kudelka,Talleres,12,6,3,3,16,7,9,21,1.75,17.127,8.76,8.367
+Leonardo Madelón,Unión,12,6,4,2,16,9,7,22,1.833,17.596,9.867,7.728
+Juan Pablo Vojvoda,Def. y Justicia,7,4,1,2,13,8,5,13,1.857,10.656,6.343,4.313
+Ariel Holan,Independiente,11,6,3,2,12,7,5,21,1.909,15.267,9.146,6.122
+Marcelo Gallardo,River Plate,12,4,3,5,16,18,-2,15,1.25,17.883,13.719,4.164
+Claudio Biaggio,San Lorenzo,9,7,1,1,16,5,11,22,2.444,12.063,9.209,2.854
+Gustavo Alfaro,Huracán,12,6,3,3,16,8,8,21,1.75,13.426,10.754,2.671
+Julio César Falcioni,Banfield,12,4,3,5,15,14,1,15,1.25,13.939,11.543,2.396
+Paolo Montero,Rosario Central,8,0,4,4,5,14,-9,4,0.5,9.175,8.154,1.021
+Juan Manuel Llop,Newell`s,12,3,4,5,10,10,0,13,1.083,14.658,13.502,1.156
+Eduardo Domínguez,Colón,12,5,5,2,15,11,4,20,1.667,15.233,14.244,0.989
+Ricardo Caruso Lombardi,Tigre,12,1,5,6,9,17,-8,8,0.667,14.416,14.108,0.307
+Néstor Raúl Gorosito,San Martín (SJ),12,6,2,4,15,13,2,20,1.667,11.536,11.924,-0.387
+Lucas Bernardi,Estudiantes,8,4,1,3,7,5,2,13,1.625,7.638,7.968,-0.33
+Mariano Soso,Gimnasia,12,4,1,7,16,22,-6,13,1.083,15.38,15.985,-0.605
+Ricardo Zielinski,Atlético Tucumán,12,4,4,4,12,12,0,16,1.333,13.558,14.315,-0.757
+Diego Martín Cocca,Racing Club,10,3,3,4,10,11,-1,12,1.2,9.528,10.27,-0.742
+Alfredo Berti,Argentinos Juniors,12,5,2,5,17,15,2,17,1.417,12.441,13.58,-1.139
+Mauricio Larriera,Godoy Cruz,11,5,2,4,14,14,0,17,1.545,11.869,14.636,-2.767
+Jorge Almirón,Lanús,10,4,1,5,9,17,-8,13,1.3,9.006,13.4,-4.394
+Humberto Grondona,Arsenal,12,1,2,9,6,15,-9,5,0.417,11.942,17.256,-5.313
+Walter Coyette,Chacarita,11,1,3,7,6,13,-7,6,0.545,7.446,12.386,-4.941
+Omar De Felippe,Vélez,8,3,1,4,6,11,-5,10,1.25,7.07,11.945,-4.875
+Gustavo Álvarez,Temperley,8,1,1,6,4,17,-13,4,0.5,6.985,13.495,-6.51
+Juan Pablo Pumpido,Patronato,12,4,3,5,12,15,-3,15,1.25,10.777,21.299,-10.522
+Pablo Lavallén,Belgrano,6,3,2,1,5,5,0,11,1.833,7.019,7.439,-0.42
+Sebastián Méndez,Belgrano,6,2,3,1,4,3,1,9,1.5,5.498,6.154,-0.656
+Rubén Forestello,Olimpo,6,2,2,2,6,6,0,8,1.333,4.737,8.62,-3.882
+Mario Sciacqua,Olimpo,6,0,1,5,1,11,-10,1,0.167,3.836,11.755,-7.919
+Gastón Esmerado,Temperley,4,2,2,0,5,3,2,8,2,2.813,4.665,-1.853
+Nelson Vivas,Def. y Justicia,4,1,1,2,7,10,-3,4,1,4.43,5.869,-1.439
+Marcelo Gómez,Vélez,4,1,1,2,3,2,1,4,1,5.825,4.204,1.621
+Leonardo Fernández,Rosario Central,3,3,0,0,3,0,3,9,3,5.353,2.257,3.096
+Diego Aguirre,San Lorenzo,3,1,2,0,2,1,1,5,1.667,3.915,2.811,1.104
+Gustavo Matosas,Estudiantes,3,1,1,1,2,2,0,4,1.333,3.732,2.89,0.842
+Juan Ramón Fleita,Racing Club,2,1,1,0,5,3,2,4,2,3.659,2.488,1.171
+Luís Marabotto,Chacarita,1,1,0,0,3,0,3,3,3,2.148,0.58,1.568
+Manuel Fernández,Def. y Justicia,1,0,1,0,0,0,0,1,1,1.438,0.211,1.228
+Leandro Damián Benítez,Estudiantes,1,0,0,1,1,3,-2,0,0,1.105,1.17,-0.065
+Ezequiel Carboni,Lanús,1,0,0,1,0,3,-3,0,0,0.58,2.148,-1.568
